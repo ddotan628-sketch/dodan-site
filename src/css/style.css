@@ -313,7 +313,29 @@ section { padding: 88px 0; }
   padding: 20px; font-size: 0.95rem; font-weight: 500; display: flex; gap: 12px; align-items: flex-start;
 }
 .cert-list li::before { content: "✓"; color: var(--success); font-weight: 800; }
+/* ---------- Header "문의하기" hover dropdown (시약 문의 vs 위탁연구 문의) ---------- */
+.nav-dropdown { position: relative; display: flex; align-items: center; }
+.nav-dropdown__panel {
+  /* top:100% (no gap), same dead-zone-avoidance approach as .maker-panel below */
+  position: absolute; top: 100%; right: 0; min-width: 240px;
+  background: var(--white); border: 1px solid var(--line); border-radius: 12px;
+  box-shadow: var(--shadow); padding: 8px; margin-top: 0; z-index: 110;
+  display: flex; flex-direction: column; gap: 2px;
+  opacity: 0; visibility: hidden; transform: translateY(-6px);
+  transition: opacity .18s ease, transform .18s ease, visibility .18s;
+}
+.nav-dropdown__panel a {
+  padding: 10px 12px !important; border-radius: 8px; font-weight: 600 !important;
+  font-size: 0.88rem; color: var(--ink) !important; white-space: nowrap;
+}
+.nav-dropdown__panel a:hover { background: var(--beige-pale); color: var(--accent-dark) !important; }
 
+@media (hover: hover) and (pointer: fine) {
+  .nav-dropdown:hover .nav-dropdown__panel,
+  .nav-dropdown:focus-within .nav-dropdown__panel {
+    opacity: 1; visibility: visible; transform: translateY(0);
+  }
+}
 /* ---------- Category → Maker hover menu (makers page) ---------- */
 .maker-menu-grid { overflow: visible; }
 .maker-menu { position: relative; }
