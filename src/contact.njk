@@ -43,66 +43,72 @@ eleventyExcludeFromCollections: true
         <input type="hidden" name="from_name" value="도단 홈페이지 문의 폼">
         <input type="checkbox" name="botcheck" style="display:none" tabindex="-1" autocomplete="off">
 
+        <!-- 참고: Web3Forms 이메일에서 항목 이름(라벨)이 한글이면 인코딩이 깨지는 문제가 있어
+             name 속성은 순수 영문으로 통일했습니다. 화면에 보이는 한글 라벨(label)은 그대로입니다.
+             영문 라벨 대응표: Contact Name=담당자명, Organization=연구소명/회사명,
+             PI or Team=책임교수/박사/팀명, Phone=휴대폰번호, Email=이메일주소,
+             Reagent Name=문의시약명, Reagent Code=문의시약제품번호, Quantity=수량,
+             Volume=용량, Note=비고/링크, Privacy Consent=개인정보동의 -->
         <div class="form-row">
           <div class="field">
             <label for="contactName">담당자명 <span class="req">*</span></label>
-            <input id="contactName" name="담당자명" type="text" required>
+            <input id="contactName" name="Contact Name" type="text" required>
           </div>
           <div class="field">
             <label for="orgName">연구소명 / 회사명</label>
-            <input id="orgName" name="연구소명_회사명" type="text">
+            <input id="orgName" name="Organization" type="text">
           </div>
         </div>
 
         <div class="form-row">
           <div class="field">
             <label for="pi">책임교수님 / 박사님 / 팀명</label>
-            <input id="pi" name="책임교수_박사_팀명" type="text">
+            <input id="pi" name="PI or Team" type="text">
           </div>
           <div class="field">
             <label for="phone">휴대폰 번호</label>
-            <input id="phone" name="휴대폰번호" type="tel" placeholder="010-0000-0000">
+            <input id="phone" name="Phone" type="tel" placeholder="010-0000-0000">
           </div>
         </div>
 
         <div class="form-row single">
           <div class="field">
             <label for="email">이메일 주소 <span class="req">*</span></label>
-            <input id="email" name="이메일주소" type="email" required>
+            <input id="email" name="Email" type="email" required>
           </div>
         </div>
 
         <div class="form-row">
           <div class="field">
             <label for="reagentName">문의 시약명</label>
-            <input id="reagentName" name="문의시약명" type="text">
+            <input id="reagentName" name="Reagent Name" type="text">
           </div>
           <div class="field">
             <label for="reagentCode">문의 시약 제품번호</label>
-            <input id="reagentCode" name="문의시약제품번호" type="text">
+            <input id="reagentCode" name="Reagent Code" type="text">
           </div>
         </div>
 
         <div class="form-row">
           <div class="field">
             <label for="qty">수량</label>
-            <input id="qty" name="수량" type="text" placeholder="예: 2 box">
+            <input id="qty" name="Quantity" type="text" placeholder="예: 2 box">
           </div>
           <div class="field">
             <label for="volume">용량</label>
-            <input id="volume" name="용량" type="text" placeholder="예: 100 mL">
+            <input id="volume" name="Volume" type="text" placeholder="예: 100 mL">
           </div>
         </div>
 
         <div class="form-row single">
           <div class="field">
             <label for="note">비고 (제품 링크 등)</label>
-            <textarea id="note" name="비고_링크" placeholder="제품 상세 링크나 추가로 전달하고 싶은 내용을 남겨주세요."></textarea>
+            <textarea id="note" name="Note" placeholder="제품 상세 링크나 추가로 전달하고 싶은 내용을 남겨주세요."></textarea>
           </div>
         </div>
 
         <label class="consent">
-          <input type="checkbox" name="개인정보동의" required style="margin-top:3px;">
+          <input type="checkbox" name="Privacy Consent" required style="margin-top:3px;">
           <span>문의 답변을 위한 개인정보 수집·이용에 동의합니다. (필수) — <a href="/privacy/" target="_blank" rel="noopener">개인정보처리방침 보기</a></span>
         </label>
 
