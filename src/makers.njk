@@ -1,0 +1,92 @@
+---
+layout: base.njk
+title: "취급분야 · 메이커 소개"
+description: "도단이 취급하는 시약, 항체, 소모품, 기기 분야와 공식 대리점·특약점을 소개합니다."
+eleventyExcludeFromCollections: true
+---
+<section class="hero" style="padding-bottom:0;">
+  <div class="hero__wrap" style="grid-template-columns:1fr; padding-bottom:56px;">
+    <div class="hero__copy">
+      <span class="hero__eyebrow">Categories &amp; Makers</span>
+      <h1>취급 분야 &amp; <em>메이커 소개</em></h1>
+      <p class="hero__desc">시약부터 기기까지 폭넓은 분야를 취급하며, 공식 대리점·특약점 계약을 통해 신뢰할 수 있는 정품을 안정적으로 공급합니다.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="section-head left">
+      <span class="kicker">Categories</span>
+      <h2>취급 분야</h2>
+    </div>
+    <p style="color:var(--ink-soft); font-size:0.9rem; margin-bottom:24px;">분야에 마우스를 올리면(모바일에서는 탭하면) 해당 분야의 취급 메이커를 확인하실 수 있습니다.</p>
+    <div class="grid-4 maker-menu-grid">
+      {% for c in site.categories %}
+      {% set makers = makersByCategory[c.id] %}
+      <div class="maker-menu">
+        <button type="button" class="cat-chip maker-menu__trigger" aria-expanded="false">
+          <b>{{ c.en }}</b>
+          <span>{{ c.ko }}</span>
+        </button>
+        <div class="maker-panel">
+          <p class="maker-panel__title">{{ c.en }} 취급 메이커</p>
+          {% if makers and makers.length %}
+          <ul class="maker-panel__list">
+            {% for m in makers %}
+            <li>
+              <a class="maker-item" href="/contact/">
+                <span class="maker-item__name">{{ m.name }}{% if m.tag %}<em>{{ m.tag }}</em>{% endif %}</span>
+                <span class="maker-item__cta">문의하기 &rarr;</span>
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+          {% else %}
+          <p class="maker-panel__empty">목록 준비 중입니다. <a href="/contact/">문의하기</a>로 남겨주시면 확인해 드립니다.</p>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="bg-alt">
+  <div class="wrap">
+    <div class="section-head left">
+      <span class="kicker">Official Partners</span>
+      <h2>공식 대리점 · 특약점</h2>
+      <p>아래 브랜드는 도단이 정식 계약을 맺고 공급하는 파트너사입니다.</p>
+    </div>
+    <div class="grid-3">
+      <div class="maker-card">
+        <span class="tag">공식 대리점 · 대전</span>
+        <h3>PHCbi</h3>
+        <p>초저온 냉동고, 인큐베이터 등 연구용 냉동·배양 장비를 공급하는 PHCbi(구 Panasonic Healthcare)의 대전 지역 공식 대리점입니다.</p>
+      </div>
+      <div class="maker-card">
+        <span class="tag">특약점</span>
+        <h3>켐원 (ChemON)</h3>
+        <p>켐원과 특약점 계약을 통해 시약 및 관련 제품을 안정적으로 공급하고 있습니다.</p>
+      </div>
+      <div class="maker-card" style="border-style:dashed; align-items:center; justify-content:center; text-align:center; color:var(--ink-soft);">
+        <span class="tag" style="background:var(--white); border:1px solid var(--beige-deep);">Coming soon</span>
+        <h3 style="color:var(--ink-soft);">추가 브랜드 업데이트 예정</h3>
+        <p>취급 제조사 리스트는 순차적으로 업데이트될 예정입니다.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="section-head left">
+      <span class="kicker">Notice</span>
+      <h2>제품 카탈로그 안내</h2>
+    </div>
+    <div class="maker-note">
+      별도의 전체 제품 카탈로그 대신, 실제 납품 사례를 <a href="/board/deliveries/" style="text-decoration:underline;">납품일지</a>에서 확인하실 수 있습니다. 찾으시는 시약이나 제품이 목록에 없더라도 <a href="/contact/" style="text-decoration:underline;">문의하기</a>를 통해 남겨주시면 확인 후 안내해 드립니다.
+    </div>
+  </div>
+</section>

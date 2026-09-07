@@ -1,0 +1,50 @@
+# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
+#
+# Sveltia CMS 설정 파일.
+# 아래 backend.repo 와 backend.base_url 값을 실제 값으로 바꿔야 로그인이 됩니다.
+# (README.md의 "웹 에디터(CMS)로 글쓰기" 항목에 설정 방법이 자세히 나와 있습니다.)
+
+backend:
+  name: github
+  repo: YOUR_GITHUB_USERNAME/dodan-site   # 예: smh-dodan/dodan-site  ← 실제 GitHub 저장소로 교체
+  branch: main
+  base_url: https://REPLACE-ME.workers.dev  # sveltia-cms-auth Worker 배포 후 실제 주소로 교체
+
+site_url: https://ddnlabsol.com
+logo_url: /assets/logo/icon-256.png
+
+media_folder: "src/assets/uploads"
+public_folder: "/assets/uploads"
+
+collections:
+  - name: "notices"
+    label: "공지사항"
+    label_singular: "공지사항 글"
+    folder: "src/board/notices"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "제목", name: "title", widget: "string" }
+      - { label: "날짜", name: "date", widget: "datetime" }
+      - label: "구분"
+        name: "category"
+        widget: "select"
+        options: ["공지", "파트너십", "행사", "운영안내"]
+        default: "공지"
+      - { label: "목록 요약 (한 줄)", name: "summary", widget: "text", required: false, hint: "게시판 목록과 홈 화면 캐러셀에 표시됩니다." }
+      - { label: "대표 이미지", name: "image", widget: "image", required: false }
+      - { label: "본문", name: "body", widget: "markdown" }
+
+  - name: "deliveries"
+    label: "납품일지"
+    label_singular: "납품일지 글"
+    folder: "src/board/deliveries"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "제목", name: "title", widget: "string" }
+      - { label: "날짜", name: "date", widget: "datetime" }
+      - { label: "제품/분류명", name: "productName", widget: "string", required: false, hint: "예: Reagent, ELISA Kit, Antibody 등. 목록의 배지로 표시됩니다." }
+      - { label: "목록 요약 (한 줄)", name: "summary", widget: "text", required: false }
+      - { label: "대표 이미지", name: "image", widget: "image", required: false }
+      - { label: "본문", name: "body", widget: "markdown" }

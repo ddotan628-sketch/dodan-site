@@ -1,0 +1,6 @@
+{
+  "layout": "post.njk",
+  "tags": "deliveries",
+  "boardLabel": "납품일지",
+  "boardPath": "/board/deliveries/"
+}

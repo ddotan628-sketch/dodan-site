@@ -1,0 +1,33 @@
+<header class="site-header">
+  <div class="wrap site-header__bar">
+    <a class="brand" href="/" aria-label="{{ site.nameEn }} 홈으로">
+      <img class="brand__mark" src="/assets/logo/symbol-ink.png" alt="" width="40" height="22">
+      <span class="brand__text">
+        <span class="brand__en">{{ site.nameEn }}</span>
+        <span class="brand__ko">{{ site.name }}</span>
+      </span>
+    </a>
+
+    <nav class="site-nav" aria-label="주 메뉴">
+      <a href="/about/">회사소개</a>
+      <a href="/makers/">취급분야·메이커</a>
+      <a href="/board/deliveries/">납품일지</a>
+      <a href="/board/notices/">공지사항</a>
+      <a href="/contact/" class="site-nav__cta">문의하기</a>
+    </nav>
+
+    <button class="nav-toggle" id="navToggle" aria-expanded="false" aria-controls="mobileNav">
+      <span></span><span></span><span></span>
+      <span class="sr-only">메뉴 열기</span>
+    </button>
+  </div>
+</header>
+
+<nav class="mobile-nav" id="mobileNav" aria-label="모바일 메뉴">
+  <a href="/about/">회사소개</a>
+  <a href="/makers/">취급분야·메이커</a>
+  <a href="/board/deliveries/">납품일지</a>
+  <a href="/board/notices/">공지사항</a>
+  <a href="/contact/" class="site-nav__cta">문의하기</a>
+</nav>
+<div class="mobile-nav-backdrop" id="mobileNavBackdrop"></div>

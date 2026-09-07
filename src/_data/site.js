@@ -1,0 +1,25 @@
+module.exports = {
+  name: "도단",
+  nameEn: "DODAN LAB SOLUTION",
+  tagline: "Reagent · Consumable · Instrument",
+  intro: "합리적인 가격과 입고일 납품 시스템으로 연구실의 시약·소모품·기기 수급을 책임집니다.",
+  ceo: "송민호",
+  bizNo: "405-11-66066",
+  phone: "010-9372-1216",
+  phoneHref: "tel:010-9372-1216",
+  email: "smh@ddnlab.kr",
+  address: "대전광역시 대덕구 동춘당로 31번길 133",
+  domain: "ddnlabsol.com",
+  url: "https://ddnlabsol.com",
+  categories: [
+    { id: "reagent", en: "Reagent", ko: "시약" },
+    { id: "antibody", en: "Antibody", ko: "항체" },
+    { id: "elisa", en: "ELISA kit", ko: "ELISA 키트" },
+    { id: "prepkit", en: "Prep kit", ko: "전처리/추출 키트" },
+    { id: "media", en: "Media", ko: "배지" },
+    { id: "consumable", en: "Consumable", ko: "소모품" },
+    { id: "instrument", en: "Instrument", ko: "기기/장비" },
+  ],
+  // Web3Forms access key placeholder — see README for how to get your own free key.
+  web3formsKey: "81fada5d-0f3a-42f7-8aa3-2691e0586685",
+};

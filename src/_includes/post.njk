@@ -1,0 +1,23 @@
+---
+layout: base.njk
+---
+<article>
+  <header class="post-hero">
+    <div class="wrap">
+      <span class="badge">{{ boardLabel }}{% if productName %} · {{ productName }}{% endif %}</span>
+      <h1>{{ title }}</h1>
+      <p class="meta">{{ date | koDate }}{% if writer %} · {{ writer }}{% endif %}</p>
+    </div>
+  </header>
+  {% if image %}
+  <div class="post-cover">
+    <img src="{{ image }}" alt="">
+  </div>
+  {% endif %}
+  <div class="post-body">
+    {{ content | safe }}
+    <div class="post-nav">
+      <a href="{{ boardPath }}" class="btn btn-ghost">&larr; 목록으로</a>
+    </div>
+  </div>
+</article>

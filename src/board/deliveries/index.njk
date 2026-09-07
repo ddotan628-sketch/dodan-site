@@ -1,0 +1,38 @@
+---
+layout: base.njk
+title: "납품일지"
+description: "도단이 실제로 공급한 시약, 항체, 소모품, 기기 납품 사례를 기록하는 게시판입니다."
+eleventyExcludeFromCollections: true
+tags: []
+---
+<section class="hero" style="padding-bottom:0;">
+  <div class="hero__wrap" style="grid-template-columns:1fr; padding-bottom:56px;">
+    <div class="hero__copy">
+      <span class="hero__eyebrow">Delivery Log</span>
+      <h1>납품일지</h1>
+      <p class="hero__desc">도단이 실제로 공급한 시약·소모품·기기 사례를 블로그처럼 기록합니다. 비슷한 제품을 찾고 계시다면 참고해 주세요.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="board-head">
+      <div class="section-head left" style="margin-bottom:0;">
+        <span class="kicker">Records</span>
+        <h2>납품 기록</h2>
+      </div>
+    </div>
+    <div class="board-list">
+      {% for post in collections.deliveries %}
+      <a class="board-item" href="{{ post.url }}">
+        <span class="board-item__badge">{{ post.data.productName or "납품사례" }}</span>
+        <span class="board-item__title">{{ post.data.title }}{% if post.data.summary %}<span class="excerpt">{{ post.data.summary }}</span>{% endif %}</span>
+        <span class="board-item__date">{{ post.date | koDate }}</span>
+      </a>
+      {% else %}
+      <div class="board-empty">아직 등록된 납품일지가 없습니다. 곧 첫 사례가 업데이트될 예정입니다.</div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

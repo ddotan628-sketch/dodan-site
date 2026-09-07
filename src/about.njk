@@ -1,0 +1,134 @@
+---
+layout: base.njk
+title: "회사소개"
+description: "도단(DODAN LAB SOLUTION)의 연혁, 사업 정보, 오시는 길을 소개합니다."
+eleventyExcludeFromCollections: true
+---
+<section class="hero" style="padding-bottom:0;">
+  <div class="hero__wrap" style="padding-bottom:56px;">
+    <div class="hero__copy">
+      <span class="hero__eyebrow">About Us</span>
+      <h1>합리적인 가격과 신뢰,<br><em>도단</em>이 만들어갑니다</h1>
+      <p class="hero__desc">{{ site.intro }}</p>
+    </div>
+
+    {% if collections.notices.length %}
+    <div class="news-carousel" id="newsCarousel">
+      <span class="news-carousel__label">최신 소식</span>
+      <div class="news-carousel__track">
+        {% for post in collections.notices %}
+        {% if loop.index0 < 5 %}
+        <a class="news-slide{% if loop.index0 == 0 %} is-active{% endif %}{% if post.data.image %} news-slide--img{% endif %}" href="{{ post.url }}">
+          {% if post.data.image %}
+          <img class="news-slide__img" src="{{ post.data.image }}" alt="">
+          {% else %}
+          <span class="news-slide__badge">{{ post.data.category or "공지" }}</span>
+          {% endif %}
+          <h3>{{ post.data.title }}</h3>
+          {% if post.data.summary %}<p>{{ post.data.summary }}</p>{% endif %}
+          <span class="news-slide__date">{{ post.date | koDate }}</span>
+        </a>
+        {% endif %}
+        {% endfor %}
+      </div>
+      {% if collections.notices.length > 1 %}
+      <div class="news-carousel__dots">
+        {% for post in collections.notices %}
+        {% if loop.index0 < 5 %}
+        <button type="button" class="{% if loop.index0 == 0 %}is-active{% endif %}" data-index="{{ loop.index0 }}" aria-label="{{ loop.index0 + 1 }}번째 소식 보기"></button>
+        {% endif %}
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+    {% else %}
+    <div class="hero__art">
+      <img src="/assets/logo/symbol-ink.png" alt="도단 DODAN LAB SOLUTION 로고" width="480" height="240">
+    </div>
+    {% endif %}
+  </div>
+</section>
+
+<section>
+  <div class="wrap grid-2">
+    <div>
+      <div class="section-head left">
+        <span class="kicker">Company</span>
+        <h2>사업자 정보</h2>
+      </div>
+      <div class="card" style="margin-bottom:16px;">
+        <p style="margin-bottom:8px;"><strong>상호</strong> · {{ site.nameEn }} ({{ site.name }})</p>
+        <p style="margin-bottom:8px;"><strong>대표자</strong> · {{ site.ceo }}</p>
+        <p style="margin-bottom:8px;"><strong>사업자등록번호</strong> · {{ site.bizNo }}</p>
+        <p style="margin-bottom:8px;"><strong>주소</strong> · {{ site.address }}</p>
+        <p style="margin-bottom:8px;"><strong>전화</strong> · <a href="{{ site.phoneHref }}">{{ site.phone }}</a></p>
+        <p style="margin-bottom:0;"><strong>이메일</strong> · <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+      </div>
+      <p style="font-size:0.88rem; color:var(--ink-soft);">시약판매업, 유해화학물질 시약판매업, 의료기기판매업을 정식 신고하고 운영하고 있습니다.</p>
+    </div>
+    <div>
+      <div class="section-head left">
+        <span class="kicker">Mission</span>
+        <h2>도단이 지키는 원칙</h2>
+      </div>
+      <div class="card" style="margin-bottom:16px;">
+        <h3>합리적 가격</h3>
+        <p>불필요한 비용을 줄이고, 연구실이 부담 없이 시약을 구매할 수 있도록 합리적인 가격을 제안합니다.</p>
+      </div>
+      <div class="card">
+        <h3>입고일 납품 시스템</h3>
+        <p>제품이 입고되는 즉시 발송을 원칙으로 하여 연구 일정에 차질이 없도록 합니다.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="bg-alt">
+  <div class="wrap">
+    <div class="section-head left">
+      <span class="kicker">History</span>
+      <h2>연혁</h2>
+    </div>
+    <ul class="timeline">
+      <li>
+        <span class="year">2025</span>
+        <h4>켐원(ChemON) 특약점 계약</h4>
+        <p>켐원 특약점 계약을 체결하여 취급 제품군을 확대했습니다.</p>
+      </li>
+      <li>
+        <span class="year">2025</span>
+        <h4>PHCbi 대전 지역 공식 대리점 계약</h4>
+        <p>PHCbi(구 Panasonic Healthcare) 대전 지역 공식 대리점으로 계약을 체결했습니다.</p>
+      </li>
+      <li>
+        <span class="year">2022</span>
+        <h4>시약판매업 · 유해화학물질 시약판매업 · 의료기기판매업 신고</h4>
+        <p>연구용 시약과 의료기기를 안전하게 취급할 수 있도록 관련 사업을 정식 신고했습니다.</p>
+      </li>
+      <li>
+        <span class="year">2022</span>
+        <h4>도단(DODAN LAB SOLUTION) 영업 개시</h4>
+        <p>대전에서 연구용 시약·소모품·기기 유통 사업을 시작했습니다.</p>
+      </li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="section-head left">
+      <span class="kicker">Location</span>
+      <h2>오시는 길</h2>
+      <p>{{ site.address }}</p>
+    </div>
+    <div class="map-frame">
+      <iframe
+        src="https://maps.google.com/maps?q={{ site.address | urlencode }}&z=16&output=embed"
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"
+        title="도단 위치 지도"
+        allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+</section>

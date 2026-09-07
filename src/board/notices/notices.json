@@ -1,0 +1,6 @@
+{
+  "layout": "post.njk",
+  "tags": "notices",
+  "boardLabel": "공지사항",
+  "boardPath": "/board/notices/"
+}
