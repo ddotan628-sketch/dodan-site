@@ -6,9 +6,9 @@
 
 backend:
   name: github
-  repo: YOUR_GITHUB_USERNAME/dodan-site   # 예: smh-dodan/dodan-site  ← 실제 GitHub 저장소로 교체
+  repo: ddotan628-sketch/dodan-site   # 예: smh-dodan/dodan-site  ← 실제 GitHub 저장소로 교체
   branch: main
-  base_url: https://REPLACE-ME.workers.dev  # sveltia-cms-auth Worker 배포 후 실제 주소로 교체
+  base_url: https://sveltia-cms-auth.smh-1f0.workers.dev  # sveltia-cms-auth Worker 배포 후 실제 주소로 교체
 
 site_url: https://ddnlabsol.com
 logo_url: /assets/logo/icon-256.png
