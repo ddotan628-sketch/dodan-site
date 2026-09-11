@@ -84,7 +84,48 @@
     });
   });
 })();
+// Makers page: category filter pills + name search over the maker grid
+(function () {
+  var grid = document.getElementById("makerGrid");
+  if (!grid) return;
+  var tiles = Array.prototype.slice.call(grid.querySelectorAll(".maker-tile"));
+  var filters = document.querySelectorAll(".maker-filter");
+  var search = document.getElementById("makerSearch");
+  var countEl = document.getElementById("makerCount");
+  var emptyEl = document.getElementById("makerEmpty");
+  var activeFilter = "all";
 
+  function apply() {
+    var q = (search && search.value ? search.value.trim().toLowerCase() : "");
+    var shown = 0;
+    tiles.forEach(function (tile) {
+      var cats = (tile.getAttribute("data-categories") || "").split(" ");
+      var name = tile.getAttribute("data-name") || "";
+      var matchesFilter = activeFilter === "all" || cats.indexOf(activeFilter) !== -1;
+      var matchesSearch = !q || name.indexOf(q) !== -1;
+      var show = matchesFilter && matchesSearch;
+      tile.hidden = !show;
+      if (show) shown += 1;
+    });
+    if (countEl) countEl.textContent = "전체 " + tiles.length + "개 중 " + shown + "개 표시";
+    if (emptyEl) emptyEl.hidden = shown !== 0;
+  }
+
+  filters.forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      filters.forEach(function (b) { b.classList.remove("is-active"); });
+      btn.classList.add("is-active");
+      activeFilter = btn.getAttribute("data-filter");
+      apply();
+    });
+  });
+
+  if (search) search.addEventListener("input", apply);
+
+  apply();
+})();
+
+// Contact form submission via Web3Forms (no backend required)
 // Contact form submission via Web3Forms (no backend required)
 // Sign up free at https://web3forms.com to get your own access key,
 // then replace the key in src/_data/site.js (web3formsKey).
