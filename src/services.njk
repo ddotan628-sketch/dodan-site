@@ -23,7 +23,7 @@ eleventyExcludeFromCollections: true
     <div class="section-head left">
       <span class="kicker">Non-clinical CRO · with SCBio</span>
       <h2>비임상 시험 서비스</h2>
-      <p>SCBio와의 협업을 통해 효능평가부터 약동학, 조직병리, 약리·독성 분석까지 비임상 단계 전반을 지원합니다.</p>
+      <p>SCBio와의 협업을 통해 효능평가부터 약동학, 조직병리, 약리·독성 분석까지 비임상 단계 전반을 지원합니다. 카드에 마우스를 올리면(모바일에서는 바로) "자세히 보기"가 나타납니다.</p>
     </div>
 
     <div class="grid-2">
@@ -36,6 +36,7 @@ eleventyExcludeFromCollections: true
           <li>면역·염증 및 신경·노화 관련 질환 모델 (아토피피부염, 다발성 경화증, 류마티스 관절염, 알츠하이머병, 루푸스, 염증성 장질환, 골관절염 등)</li>
           <li>대사성 및 대사 관련 질환 모델 (NAFLD·MASH, Type 2 당뇨 등)</li>
         </ul>
+        <button type="button" class="detail-trigger" data-detail-target="detail-efficacy">자세히 보기</button>
       </div>
       <div class="maker-card">
         <span class="tag">PK Studies</span>
@@ -47,6 +48,7 @@ eleventyExcludeFromCollections: true
           <li>LC-MS/MS, ELISA 기반 혈액·조직 내 농도 정량 분석</li>
           <li>Cmax, Tmax, AUC, t1/2, Clearance 등 PK 파라미터 도출</li>
         </ul>
+        <button type="button" class="detail-trigger" data-detail-target="detail-pk">자세히 보기</button>
       </div>
       <div class="maker-card">
         <span class="tag">Precision Tissue Pathology</span>
@@ -57,6 +59,7 @@ eleventyExcludeFromCollections: true
           <li>Flow Cytometry(FACS) 기반 면역·종양세포 아형 분석</li>
           <li>H&amp;E, MT, Sirius red, IHC, IF 염색 기반 조직 구조·표적 단백질 발현 분석</li>
         </ul>
+        <button type="button" class="detail-trigger" data-detail-target="detail-pathology">자세히 보기</button>
       </div>
       <div class="maker-card">
         <span class="tag">Pharmacology &amp; Toxicology</span>
@@ -67,6 +70,7 @@ eleventyExcludeFromCollections: true
           <li>Plasma protein binding assay (PPB)</li>
           <li>PAMPA(수동 투과성), Caco-2(장관 투과성), BBB(혈뇌장벽 투과성) 평가</li>
         </ul>
+        <button type="button" class="detail-trigger" data-detail-target="detail-pharmtox">자세히 보기</button>
       </div>
     </div>
   </div>
@@ -85,16 +89,19 @@ eleventyExcludeFromCollections: true
         <span class="num">01</span>
         <h3>메디시널 · 합성 · 공정 화학</h3>
         <p>Medicinal / Synthetic / Process / Analytical Chemistry — 타겟 구조 설계(CADD)부터 mg~kg 스케일 커스텀 합성, 불순물·라이브러리 합성까지 지원합니다.</p>
+        <button type="button" class="detail-trigger" data-detail-target="detail-medchem">자세히 보기</button>
       </div>
       <div class="card">
         <span class="num">02</span>
         <h3>ADC · PROTAC · 펩타이드</h3>
         <p>Antibody Drug Conjugate(ADC), PROTAC/Molecular Glue, 펩타이드·탄수화물·뉴클레오시드 화학 등 최신 모달리티 합성 플랫폼을 보유하고 있습니다.</p>
+        <button type="button" class="detail-trigger" data-detail-target="detail-modality">자세히 보기</button>
       </div>
       <div class="card">
         <span class="num">03</span>
         <h3>유연한 서비스 모델</h3>
         <p>FTE(전담 연구 인력 상주) 또는 FFS(건별 위탁, 고정 비용·납기) 방식 중 프로젝트 성격에 맞게 선택하실 수 있습니다.</p>
+        <button type="button" class="detail-trigger" data-detail-target="detail-model">자세히 보기</button>
       </div>
     </div>
 
@@ -116,3 +123,226 @@ eleventyExcludeFromCollections: true
     </div>
   </div>
 </section>
+
+<!-- ============ 자세히 보기 모달 + 상세 콘텐츠 템플릿 ============ -->
+<div class="detail-overlay" id="serviceDetailOverlay">
+  <div class="detail-modal" role="dialog" aria-modal="true" aria-labelledby="serviceDetailBody">
+    <button type="button" class="detail-modal__close" id="serviceDetailClose" aria-label="닫기">&times;</button>
+    <div class="detail-modal__body" id="serviceDetailBody"></div>
+  </div>
+</div>
+
+<template id="detail-efficacy">
+  <span class="kicker">Efficacy Studies · with SCBio</span>
+  <h3>유효성 평가 상세</h3>
+
+  <h4>항암 효능 평가</h4>
+  <p>Syngeneic, Xenograft, Humanized immune mouse model(hCD34⁺, hPBMC 이식) 4가지 모델로 아래 암종의 후보물질 효능을 평가합니다.</p>
+  <ul>
+    <li>유방암, 폐암, 대장암, 위암, 췌장암, 간암, 담관암, 혈액암, 피부암·흑색종, 자궁경부암, 두경부암 및 기타 고형암</li>
+    <li>Humanized immune mouse model은 항암 목적뿐 아니라 자가면역 억제제, Treg 조절제 등 면역조절치료제의 유효성 평가에도 활용됩니다</li>
+  </ul>
+
+  <h4>섬유화 및 호흡기 질환 모델</h4>
+  <ul>
+    <li>IPF(특발성 폐섬유증) — BLM(블레오마이신) 유도 모델, H&amp;E·Trichrome·Sirius red 염색 기반 조직 분석</li>
+    <li>COPD(만성폐쇄성폐질환) — 만성 폐손상·염증 반응 기반, 기도 염증 및 폐조직 구조 변화 분석</li>
+  </ul>
+
+  <h4>면역·염증 및 신경·노화 관련 질환 모델</h4>
+  <ul>
+    <li>아토피피부염 — DNCB 유도 모델</li>
+    <li>다발성 경화증 — EAE, PLP-SJL 모델</li>
+    <li>류마티스 관절염 — Collagen-Induced Arthritis(CIA) 모델</li>
+    <li>염증성 장질환 — DSS 유도 대장염 모델</li>
+    <li>알츠하이머병, 루푸스(자가면역질환 모델)</li>
+    <li>골관절염 등 노인성 퇴행성 질환 모델</li>
+  </ul>
+
+  <h4>대사성 질환 모델</h4>
+  <ul>
+    <li>NAFLD·MASH — Diet-induced(식이 유도) 지방간 모델</li>
+    <li>Type 2 당뇨 모델</li>
+  </ul>
+
+  <div class="detail-note">SCBio와의 협업을 통해 제공되는 서비스입니다. 원하시는 질환 모델·암종을 <a href="/contact-cro/">위탁연구 문의하기</a>에 남겨주시면 담당자가 확인 후 안내해 드립니다.</div>
+</template>
+
+<template id="detail-pk">
+  <span class="kicker">PK Studies · with SCBio</span>
+  <h3>약동학 시험 상세</h3>
+
+  <h4>적용 플랫폼 · 투여 경로</h4>
+  <ul>
+    <li>Small molecule, Antibody, ADC 등 다양한 약물 플랫폼에 적용 가능</li>
+    <li>IV(정맥), PO(경구), SC(피하), IP(복강) 등 다경로 투여 지원</li>
+  </ul>
+
+  <h4>조직 분포 및 정량 분석</h4>
+  <ul>
+    <li>간·비장·폐·신장 등 주요 장기 내 조직 분포(Biodistribution) 분석</li>
+    <li>ADC 및 항체 약물의 종양 내 침투(intratumoral penetration) 분석</li>
+    <li>LC-MS/MS, ELISA 기반 혈액·조직 내 농도 정량 분석</li>
+  </ul>
+
+  <h4>PK 파라미터 산출</h4>
+  <ul>
+    <li>Cmax, Tmax, AUC, t1/2, Clearance, Volume of distribution 등 계산 및 리포트 제공</li>
+  </ul>
+
+  <div class="detail-note">SCBio와의 협업을 통해 제공되는 서비스입니다. 시험하실 약물 플랫폼과 투여 경로를 <a href="/contact-cro/">위탁연구 문의하기</a>에 남겨주시면 담당자가 확인 후 안내해 드립니다.</div>
+</template>
+
+<template id="detail-pathology">
+  <span class="kicker">Precision Tissue Pathology · with SCBio</span>
+  <h3>정밀조직병리 분석 상세</h3>
+
+  <h4>단세포·전사체 분석</h4>
+  <ul>
+    <li>scRNA-seq 기반 단세포전사체 분석 — raw data 제공 및 bioinformatics 분석까지 지원</li>
+    <li>Transcriptome analysis(RNA-seq) — 유전자 발현 패턴 분석</li>
+  </ul>
+
+  <h4>Cellular Profiling Analysis</h4>
+  <ul>
+    <li>Flow Cytometry(FACS) 기반 면역세포·종양세포 아형(subtype) 분석</li>
+    <li>종양 미세환경(TME) 내 세포 조성 및 시간에 따른 동적 변화 평가</li>
+  </ul>
+
+  <h4>Histopathology Analysis</h4>
+  <ul>
+    <li>H&amp;E, MT(Masson's Trichrome), Sirius red, IHC, IF 염색 기반 조직 구조·표적 단백질 발현 분석</li>
+    <li>조직 내 염증, 섬유화, 종양 침윤 정도에 대한 정량·정성 평가</li>
+  </ul>
+
+  <div class="detail-note">SCBio와의 협업을 통해 제공되는 서비스입니다. 필요하신 분석 항목을 <a href="/contact-cro/">위탁연구 문의하기</a>에 남겨주시면 담당자가 확인 후 안내해 드립니다.</div>
+</template>
+
+<template id="detail-pharmtox">
+  <span class="kicker">Pharmacology &amp; Toxicology · with SCBio</span>
+  <h3>약리·독성 및 대사·투과성 분석 상세</h3>
+  <p>4개 세부 분석 항목이 아래 4개 안전성 카테고리로 구조화되어 제공됩니다.</p>
+
+  <h4>Cardiac Safety (심장 안전성)</h4>
+  <ul><li>hERG — 심장 전기생리(electrophysiology) 안전성 평가</li></ul>
+
+  <h4>Metabolism (대사)</h4>
+  <ul>
+    <li>CYP — 약물 대사효소 및 약물간 상호작용(DDI) 평가</li>
+    <li>Metabolic stability assay — 간·혈액 내 대사 안정성 평가</li>
+  </ul>
+
+  <h4>Binding (결합)</h4>
+  <ul><li>Plasma protein binding assay(PPB) — 혈장 단백 결합 평가</li></ul>
+
+  <h4>Permeability (투과성)</h4>
+  <ul>
+    <li>PAMPA — 수동 투과성 평가</li>
+    <li>Caco-2 — 장관 투과성 평가</li>
+    <li>BBB — 혈뇌장벽 투과성 평가</li>
+  </ul>
+
+  <div class="detail-note">SCBio와의 협업을 통해 제공되는 서비스입니다. 필요하신 평가 항목을 <a href="/contact-cro/">위탁연구 문의하기</a>에 남겨주시면 담당자가 확인 후 안내해 드립니다.</div>
+</template>
+
+<template id="detail-medchem">
+  <span class="kicker">Medicinal · Synthetic · Process Chemistry · ChemPartner · BioDuro</span>
+  <h3>메디시널 · 합성 · 공정 화학 상세</h3>
+  <p>ChemPartner(합성·분석화학자 700명 이상)와 BioDuro(Discovery 화학자 1,200명 이상, 4개 거점)의 대규모 화학 인프라를 통해 신약 디스커버리 초기 단계부터 공정 최적화까지 지원합니다.</p>
+
+  <h4>주요 서비스</h4>
+  <ul>
+    <li>Medicinal Chemistry — CADD(Structure-based/Ligand-based) 기반 타겟 구조 설계, SAR 연구용 합성</li>
+    <li>Synthetic &amp; Process Chemistry — 커스텀 합성, 중간체·최종물질 대량 합성, 불순물·라이브러리 합성, Flow chemistry</li>
+    <li>Analytical &amp; Purification — 키랄 분리, pKa·LogP·안정성·용해도 분석, NMR·LCMS·HPLC·XRPD·ICP-MS</li>
+    <li>Kilo-lab — mg~kg 스케일(통상 10kg 이하) 중간체·API를 COA와 함께 비-GMP 조건으로 납품</li>
+  </ul>
+
+  <h4>속도 · 생산성</h4>
+  <ul>
+    <li>월 6,000개 이상 분자 합성(BioDuro), 정시 납품률 99%</li>
+    <li>고속 조건 스크리닝(HTE) 1일 이내, 병렬 합성 주당 1,000개 화합물</li>
+    <li>자체 재고 시약 13,000~15,000개 이상 품목 보유, 실험실 배송 2시간 이내</li>
+  </ul>
+
+  <h4>실제 사례</h4>
+  <ul>
+    <li>API 합성 공정 최적화 — 6단계·수율 8%(20mg/4주, g당 $50,000 이상) → Flow chemistry 적용 8단계·수율 28~30%(200g/3주, g당 $400 미만)로 개선</li>
+    <li>빌딩블록 재고 활용으로 IRAK4 타겟 후보물질 합성을 18단계→10단계, 6주→3주로 단축</li>
+  </ul>
+
+  <div class="detail-note">ChemPartner·BioDuro와의 협업을 통해 제공되는 서비스입니다. 원하시는 화합물 구조·스케일·납기를 <a href="/contact-cro/">위탁연구 문의하기</a>에 남겨주시면 담당자가 확인 후 상세 견적을 안내해 드립니다.</div>
+</template>
+
+<template id="detail-modality">
+  <span class="kicker">ADC · PROTAC · Peptide · ChemPartner · BioDuro</span>
+  <h3>ADC · PROTAC · 펩타이드 상세</h3>
+
+  <h4>ADC (Antibody Drug Conjugate)</h4>
+  <ul>
+    <li>Linker-Payload 합성, 항체 생산(단일·이중특이), Site-Specific 컨쥬게이션 등 전 공정 지원</li>
+    <li>MMAE, Dxd, PBD, Camptothecin류 등 상용·특허 독소 및 맞춤 페이로드 합성, Cleavable/Non-cleavable 링커</li>
+    <li>OEB-5 등급(고활성 원료 전용) 실험실 보유, g~100g대 스케일 지원</li>
+    <li>즉시 활용 가능한 링커 4,000개 이상, 신규 페이로드·링커 연 5,000개 이상 공급 실적</li>
+  </ul>
+
+  <h4>PROTAC · Molecular Glue (표적 단백질 분해)</h4>
+  <ul>
+    <li>CRBN 50종 이상, VHL 46종 이상 등 다양한 E3 리간드 라이브러리 보유</li>
+    <li>전담 화학자 200명 이상, 2015년부터 운영 — 연 1만 개 이상 분자 납품 실적</li>
+    <li>mg~kg 스케일 대응, 다수 프로젝트가 임상시험 단계까지 진입</li>
+  </ul>
+
+  <h4>펩타이드 · 탄수화물 · 뉴클레오시드 화학</h4>
+  <ul>
+    <li>선형·고리형(macrocyclic)·표지 펩타이드, 펩타이드 컨쥬게이트(PDC) — 연 3,500~10,000개 이상 합성 실적</li>
+    <li>N/C-말단 변형(PEG화, 형광표지, 아세틸화 등), 다이머·트라이머 합성, 당화·지질화 지원</li>
+    <li>탄수화물(당쇄) 화학, 항바이러스 뉴클레오시드 250종 이상 취급 경험, mRNA 모노머·캡 유사체 맞춤 합성</li>
+  </ul>
+
+  <h4>실제 사례</h4>
+  <ul>
+    <li>PEG화 이중고리 바이시클릭 펩타이드 — 원팟 전략으로 수율 19%→30%, 생산기간 13일→8일 단축, 순도 98% 이상, 100mg→10g 스케일 확장</li>
+  </ul>
+
+  <div class="detail-note">ChemPartner·BioDuro와의 협업을 통해 제공되는 서비스입니다. 원하시는 모달리티·스케일을 <a href="/contact-cro/">위탁연구 문의하기</a>에 남겨주시면 담당자가 확인 후 상세 견적을 안내해 드립니다.</div>
+</template>
+
+<template id="detail-model">
+  <span class="kicker">FTE · FFS · ChemPartner · BioDuro</span>
+  <h3>유연한 서비스 모델 상세</h3>
+
+  <h4>FTE (Full Time Equivalent)</h4>
+  <ul>
+    <li>전담 연구·관리 인력이 프로젝트에 상주 배정, 타겟 구조만 제공하면 시작 가능</li>
+    <li>주간 정식 프로젝트 리포트 및 정기 미팅 제공, 프로젝트 우선순위·인력배치 유연 조정</li>
+    <li>일반 분석·시약·배송, 화합물 관리, 키랄 분석 등 부대 서비스 포함</li>
+    <li>100명 이상 규모의 팀도 신속하게 구성 가능한 대규모 인력 풀 보유</li>
+  </ul>
+
+  <h4>FFS (Fee For Service)</h4>
+  <ul>
+    <li>특정 니즈·프로젝트 단위로 고정 비용·고정 납기 계약</li>
+    <li>mg~kg 스케일 맞춤 합성, 키랄 분리, 불순물 제조·분리부터 Non-GMP/GMP-like 스케일업까지 대응</li>
+  </ul>
+
+  <h4>통합 서비스 모델</h4>
+  <ul>
+    <li>소분자 메디시널 케미스트리 + 생물학 + in vitro/in vivo 스크리닝 + ADME/PK + 초기 독성평가까지 원스톱 통합 지원</li>
+    <li>리스크 분담·마일스톤 기반 계약 등 협업 파트너십 옵션 제공</li>
+  </ul>
+
+  <h4>실제 확장 사례</h4>
+  <ul>
+    <li>5 FTE로 시작해 7년간 25 FTE로 확대 — 누적 화합물 약 1만 개 합성·테스트, 5개 후보물질이 임상 개발 단계 진입</li>
+    <li>FFS로 시작해 6년간 10→20→30 FTE로 단계적 확대 — 화합물 4,000개 이상 전달, 2개 후보물질 임상 진입</li>
+  </ul>
+
+  <h4>품질 지표</h4>
+  <ul>
+    <li>화학반응 성공률 85% 이상, FFS 정시 납품률 80~99% 수준</li>
+    <li>지적재산권은 100% 고객사에 귀속되는 CRO 방식으로 운영</li>
+  </ul>
+
+  <div class="detail-note">ChemPartner·BioDuro와의 협업을 통해 제공되는 서비스입니다. 원하시는 운영 방식(FTE/FFS)과 규모를 <a href="/contact-cro/">위탁연구 문의하기</a>에 남겨주시면 담당자가 확인 후 상세히 안내해 드립니다.</div>
+</template>
