@@ -440,18 +440,19 @@ section { padding: 88px 0; }
   background: var(--white); border: 1px solid var(--line); border-radius: var(--radius);
   padding: 20px; display: flex; flex-direction: column; gap: 12px;
 }
-.maker-tile__top { display: flex; align-items: center; gap: 12px; }
+.maker-tile[hidden] { display: none; }
+.maker-tile__top { display: flex; flex-direction: column; align-items: flex-start; gap: 12px; }
 .maker-tile__logo {
-  position: relative; width: 52px; height: 52px; flex: none; border-radius: 10px;
+  position: relative; width: 100%; height: 96px; flex: none; border-radius: 10px;
   border: 1px solid var(--line); background: var(--beige-pale);
   display: flex; align-items: center; justify-content: center; overflow: hidden;
 }
 .maker-tile__logo-fallback {
-  font-family: "Poppins", sans-serif; font-weight: 700; font-size: 1rem; color: var(--accent-dark);
+  font-family: "Poppins", sans-serif; font-weight: 700; font-size: 1.5rem; color: var(--accent-dark);
 }
 .maker-tile__logo img {
   position: absolute; inset: 0; width: 100%; height: 100%; object-fit: contain;
-  background: var(--white); padding: 4px;
+  background: var(--white); padding: 12px;
 }
 .maker-tile__heading { min-width: 0; }
 .maker-tile__heading h3 { font-size: 1rem; margin: 0 0 4px; line-height: 1.3; }
