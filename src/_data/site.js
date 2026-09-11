@@ -17,8 +17,10 @@ module.exports = {
     { id: "elisa", en: "ELISA kit", ko: "ELISA 키트" },
     { id: "prepkit", en: "Prep kit", ko: "전처리/추출 키트" },
     { id: "media", en: "Media", ko: "배지" },
-    { id: "consumable", en: "Consumable", ko: "소모품" },
+       { id: "consumable", en: "Consumable", ko: "소모품" },
     { id: "instrument", en: "Instrument", ko: "기기/장비" },
+    { id: "chemical", en: "Chemical", ko: "화합물" },
+    { id: "optics", en: "Optics", ko: "광학" },
   ],
   // Web3Forms access key placeholder — see README for how to get your own free key.
   web3formsKey: "81fada5d-0f3a-42f7-8aa3-2691e0586685",
