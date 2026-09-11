@@ -124,7 +124,43 @@
 
   apply();
 })();
+// Service cards: "자세히 보기" hover trigger -> detail modal (services page)
+(function () {
+  var triggers = document.querySelectorAll("[data-detail-target]");
+  var overlay = document.getElementById("serviceDetailOverlay");
+  if (!triggers.length || !overlay) return;
+  var body = document.getElementById("serviceDetailBody");
+  var closeBtn = document.getElementById("serviceDetailClose");
 
+  function open(id) {
+    var tpl = document.getElementById(id);
+    if (!tpl || !body) return;
+    body.innerHTML = "";
+    body.appendChild(tpl.content.cloneNode(true));
+    overlay.classList.add("open");
+    document.body.style.overflow = "hidden";
+    if (closeBtn) closeBtn.focus();
+  }
+  function close() {
+    overlay.classList.remove("open");
+    document.body.style.overflow = "";
+  }
+
+  triggers.forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      open(btn.getAttribute("data-detail-target"));
+    });
+  });
+  if (closeBtn) closeBtn.addEventListener("click", close);
+  overlay.addEventListener("click", function (e) {
+    if (e.target === overlay) close();
+  });
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape" && overlay.classList.contains("open")) close();
+  });
+})();
+
+// Contact form submission via Web3Forms (no backend required)
 // Contact form submission via Web3Forms (no backend required)
 // Contact form submission via Web3Forms (no backend required)
 // Sign up free at https://web3forms.com to get your own access key,
