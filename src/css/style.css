@@ -439,6 +439,7 @@ section { padding: 88px 0; }
 .maker-tile {
   background: var(--white); border: 1px solid var(--line); border-radius: var(--radius);
   padding: 20px; display: flex; flex-direction: column; gap: 12px;
+  position: relative; transition: box-shadow .15s ease, border-color .15s ease;
 }
 .maker-tile[hidden] { display: none; }
 .maker-tile__top { display: flex; flex-direction: column; align-items: flex-start; gap: 12px; }
@@ -476,6 +477,16 @@ section { padding: 88px 0; }
 }
 .maker-tile__links a { color: var(--accent-dark); }
 .maker-tile__links a:hover { text-decoration: underline; }
+
+/* Desktop: reveal the full description on hover instead of the 3-line clamp */
+@media (hover: hover) and (pointer: fine) {
+  .maker-tile:hover {
+    box-shadow: var(--shadow); border-color: var(--beige-deep); z-index: 5;
+  }
+  .maker-tile:hover .maker-tile__desc {
+    -webkit-line-clamp: unset; display: block;
+  }
+}
 /* ---------- Board (list) ---------- */
 .board-head { display: flex; align-items: flex-end; justify-content: space-between; gap: 20px; margin-bottom: 36px; flex-wrap: wrap; }
 .board-list { display: flex; flex-direction: column; border-top: 1px solid var(--ink); }
