@@ -15,9 +15,40 @@ eleventyExcludeFromCollections: true
         <a class="btn btn-ghost" href="/makers/">취급분야 살펴보기</a>
       </div>
     </div>
+        {% if collections.notices.length %}
+    <div class="news-carousel" id="newsCarousel">
+      <span class="news-carousel__label">최신 소식</span>
+      <div class="news-carousel__track">
+        {% for post in collections.notices %}
+        {% if loop.index0 < 5 %}
+        <a class="news-slide{% if loop.index0 == 0 %} is-active{% endif %}{% if post.data.image %} news-slide--img{% endif %}" href="{{ post.url }}">
+          {% if post.data.image %}
+          <img class="news-slide__img" src="{{ post.data.image }}" alt="">
+          {% else %}
+          <span class="news-slide__badge">{{ post.data.category or "공지" }}</span>
+          {% endif %}
+          <h3>{{ post.data.title }}</h3>
+          {% if post.data.summary %}<p>{{ post.data.summary }}</p>{% endif %}
+          <span class="news-slide__date">{{ post.date | koDate }}</span>
+        </a>
+        {% endif %}
+        {% endfor %}
+      </div>
+      {% if collections.notices.length > 1 %}
+      <div class="news-carousel__dots">
+        {% for post in collections.notices %}
+        {% if loop.index0 < 5 %}
+        <button type="button" class="{% if loop.index0 == 0 %}is-active{% endif %}" data-index="{{ loop.index0 }}" aria-label="{{ loop.index0 + 1 }}번째 소식 보기"></button>
+        {% endif %}
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+    {% else %}
     <div class="hero__art">
       <img src="/assets/logo/symbol-ink.png" alt="도단 DODAN LAB SOLUTION 로고" width="480" height="240">
     </div>
+    {% endif %}
   </div>
   <div class="hero__stats">
     <div class="wrap">
