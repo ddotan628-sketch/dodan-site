@@ -190,8 +190,12 @@
     })
       .then(function (res) { return res.json(); })
       .then(function (result) {
-        if (result.success) {
+               if (result.success) {
           showStatus("ok", "문의가 정상적으로 접수되었습니다. 빠르게 확인 후 연락드리겠습니다.");
+          if (typeof gtag === "function") {
+            var formType = window.location.pathname.indexOf("contact-cro") !== -1 ? "cro_inquiry" : "reagent_inquiry";
+            gtag("event", "generate_lead", { form_type: formType });
+          }
           form.reset();
         } else {
           showStatus("err", "전송에 실패했습니다. 잠시 후 다시 시도하시거나 이메일로 문의해 주세요.");
