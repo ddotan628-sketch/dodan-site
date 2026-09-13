@@ -8,6 +8,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/js": "js" });
   eleventyConfig.addPassthroughCopy({ "src/favicon.ico": "favicon.ico" });
   eleventyConfig.addPassthroughCopy({ "src/robots.txt": "robots.txt" });
+  eleventyConfig.addPassthroughCopy({ "src/llms.txt": "llms.txt" });
   eleventyConfig.addPassthroughCopy({ "src/_redirects": "_redirects" });
 
   eleventyConfig.addFilter("koDate", (dateObj) => {
