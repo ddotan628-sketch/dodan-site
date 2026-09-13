@@ -465,6 +465,7 @@ section { padding: 88px 0; }
   font-size: 0.86rem; color: var(--ink-soft); margin: 0;
   display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden;
 }
+.maker-tile__buy { font-size: 0.78rem; color: var(--accent-dark); margin: 0; font-weight: 600; }
 .maker-tile__bottom { margin-top: auto; display: flex; flex-direction: column; gap: 10px; }
 .maker-tile__cats { display: flex; flex-wrap: wrap; gap: 6px; }
 .maker-tile__cat {
