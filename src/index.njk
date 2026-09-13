@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 title: "연구용 시약·항체·소모품·기기 구매대행"
-description: "도단(DODAN LAB SOLUTION) — 연구용 시약, 항체, ELISA 키트, 실험소모품, 연구장비를 합리적인 가격에 구매대행하는 시약 유통 전문 업체입니다. 입고일 당일 납품 시스템으로 전국 연구실에 안정적으로 공급합니다."
+description: "도단(DODAN LAB SOLUTION) — 연구용 시약, 항체, ELISA 키트, 실험소모품, 연구장비를 합리적인 가격에 구매대행하는 시약 유통 전문 업체입니다. 입고일 당일 납품 시스템으로 대전·전국 연구실에 안정적으로 공급합니다."
 eleventyExcludeFromCollections: true
 ---
 <section class="hero">
@@ -15,7 +15,7 @@ eleventyExcludeFromCollections: true
         <a class="btn btn-ghost" href="/makers/">취급분야 살펴보기</a>
       </div>
     </div>
-        {% if collections.notices.length %}
+    {% if collections.notices.length %}
     <div class="news-carousel" id="newsCarousel">
       <span class="news-carousel__label">최신 소식</span>
       <div class="news-carousel__track">
@@ -136,6 +136,71 @@ eleventyExcludeFromCollections: true
     </ul>
   </div>
 </section>
+
+<section>
+  <div class="wrap">
+    <div class="section-head">
+      <span class="kicker">FAQ</span>
+      <h2>자주 묻는 질문</h2>
+    </div>
+    <div class="faq-list">
+      <details class="faq-item">
+        <summary>시약 구매대행이란 무엇인가요?</summary>
+        <p>연구실에서 필요한 시약·항체·소모품·기기를 도단이 대신 발주·구매하여 안정적으로 공급하는 서비스입니다. 제품번호를 모르셔도 필요하신 내용을 남겨주시면 담당자가 확인 후 안내해 드립니다.</p>
+      </details>
+      <details class="faq-item">
+        <summary>국내 대리점이 없는 해외 브랜드 제품도 구매할 수 있나요?</summary>
+        <p>네, 가능합니다. 많은 해외 제조사는 국내에 별도 대리점이 없는데, 도단은 이런 브랜드도 해외 구매대행을 통해 국내 연구실에 공급하고 있습니다. <a href="/contact/">문의하기</a>에 제품명을 남겨주시면 확인해 드립니다.</p>
+      </details>
+      <details class="faq-item">
+        <summary>위탁연구(CRO)도 도단을 통해 진행할 수 있나요?</summary>
+        <p>네. 비임상 시험(효능평가·약동태·병리·독성), 동물실험 대행, 위탁합성·신약 디스커버리 케미스트리까지 파트너사와 연결해 드립니다. 자세한 내용은 <a href="/services/">위탁연구서비스</a> 페이지를 참고해 주세요.</p>
+      </details>
+      <details class="faq-item">
+        <summary>견적은 어떻게 요청하나요?</summary>
+        <p><a href="/contact/">문의하기</a> 페이지에서 시약명, 제품번호(아시는 경우), 수량을 남겨주시면 담당자가 확인 후 빠르게 견적과 예상 납기를 안내해 드립니다.</p>
+      </details>
+      <details class="faq-item">
+        <summary>납품은 얼마나 걸리나요?</summary>
+        <p>입고 당일 발송을 원칙으로 하고 있습니다. 제품에 따라 해외 통관 등으로 일정이 달라질 수 있어, 문의 시 담당자가 예상 납기를 함께 안내해 드립니다.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "시약 구매대행이란 무엇인가요?",
+      "acceptedAnswer": { "@type": "Answer", "text": "연구실에서 필요한 시약·항체·소모품·기기를 도단이 대신 발주·구매하여 안정적으로 공급하는 서비스입니다. 제품번호를 모르셔도 필요하신 내용을 남겨주시면 담당자가 확인 후 안내해 드립니다." }
+    },
+    {
+      "@type": "Question",
+      "name": "국내 대리점이 없는 해외 브랜드 제품도 구매할 수 있나요?",
+      "acceptedAnswer": { "@type": "Answer", "text": "네, 가능합니다. 많은 해외 제조사는 국내에 별도 대리점이 없는데, 도단은 이런 브랜드도 해외 구매대행을 통해 국내 연구실에 공급하고 있습니다." }
+    },
+    {
+      "@type": "Question",
+      "name": "위탁연구(CRO)도 도단을 통해 진행할 수 있나요?",
+      "acceptedAnswer": { "@type": "Answer", "text": "네. 비임상 시험(효능평가·약동태·병리·독성), 동물실험 대행, 위탁합성·신약 디스커버리 케미스트리까지 파트너사와 연결해 드립니다." }
+    },
+    {
+      "@type": "Question",
+      "name": "견적은 어떻게 요청하나요?",
+      "acceptedAnswer": { "@type": "Answer", "text": "문의하기 페이지에서 시약명, 제품번호(아시는 경우), 수량을 남겨주시면 담당자가 확인 후 빠르게 견적과 예상 납기를 안내해 드립니다." }
+    },
+    {
+      "@type": "Question",
+      "name": "납품은 얼마나 걸리나요?",
+      "acceptedAnswer": { "@type": "Answer", "text": "입고 당일 발송을 원칙으로 하고 있으며, 제품에 따라 해외 통관 등으로 일정이 달라질 수 있어 문의 시 담당자가 예상 납기를 함께 안내해 드립니다." }
+    }
+  ]
+}
+</script>
 
 <section>
   <div class="wrap">

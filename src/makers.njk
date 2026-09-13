@@ -47,7 +47,7 @@ eleventyExcludeFromCollections: true
             {% endif %}
           </div>
           <div class="maker-tile__heading">
-            <h3>{{ m.name }}</h3>
+            <h3><a href="/makers/{{ m.slug }}/">{{ m.name }}</a></h3>
             {% if m.tag %}<span class="maker-tile__badge">{{ m.tag }}</span>{% endif %}
           </div>
         </div>
