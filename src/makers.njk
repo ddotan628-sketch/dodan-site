@@ -54,6 +54,8 @@ eleventyExcludeFromCollections: true
 
         {% if m.desc %}<p class="maker-tile__desc">{{ m.desc }}</p>{% endif %}
 
+        <p class="maker-tile__buy">{{ m.name }} 제품은 도단을 통해 구매·견적 문의가 가능합니다.</p>
+
         <div class="maker-tile__bottom">
           <div class="maker-tile__cats">
             {% for cid in m.categories %}
