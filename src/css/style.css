@@ -306,6 +306,19 @@ section { padding: 88px 0; }
 .timeline h4 { margin: 4px 0 4px; font-size: 1.05rem; }
 .timeline p { color: var(--ink-soft); margin: 0; font-size: 0.95rem; }
 
+/* ---------- Clients (about) ---------- */
+.client-groups { display: flex; flex-direction: column; gap: 28px; }
+.client-group h3 {
+  font-size: 0.86rem; font-weight: 700; color: var(--accent-dark);
+  text-transform: uppercase; letter-spacing: 0.04em; margin: 0 0 12px;
+}
+.client-chips { display: flex; flex-wrap: wrap; gap: 10px; }
+.client-chip {
+  font-size: 0.88rem; font-weight: 600; color: var(--ink);
+  background: var(--white); border: 1px solid var(--line);
+  padding: 8px 16px; border-radius: 999px;
+}
+
 /* ---------- Certifications ---------- */
 .cert-list { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
 .cert-list li {
