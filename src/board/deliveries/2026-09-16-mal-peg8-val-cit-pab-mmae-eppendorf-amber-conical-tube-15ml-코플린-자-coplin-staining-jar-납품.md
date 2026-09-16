@@ -3,7 +3,7 @@ title: Mal-PEG8-Val-Cit-PAB-MMAE,  Eppendorf Amber Conical Tube 15mL, 코플린 
 date: 2026-09-16T18:18:00
 productName: Mal-PEG8-Val-Cit-PAB-MMAE, Eppendorf Amber Conical Tube 15mL, 코플린 자 (Coplin Staining Jar)
 summary: Mal-PEG8-Val-Cit-PAB-MMAE(제품번호 HY-141156) 등 3건 납품 완료
-image: ''
+image: /assets/uploads/KakaoTalk_20260916_174935915.jpg
 ---
 
 ![](/assets/uploads/KakaoTalk_20260916_174935915.jpg)
