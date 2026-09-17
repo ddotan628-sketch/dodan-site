@@ -26,8 +26,17 @@ tags: []
     <div class="board-list">
       {% for post in collections.notices %}
       <a class="board-item" href="{{ post.url }}">
-        <span class="board-item__badge">{{ post.data.category or "공지" }}</span>
-        <span class="board-item__title">{{ post.data.title }}{% if post.data.summary %}<span class="excerpt">{{ post.data.summary }}</span>{% endif %}</span>
+        <span class="board-item__thumb">
+          {% if post.data.image %}
+          <img src="{{ post.data.image }}" alt="" loading="lazy">
+          {% else %}
+          <span class="board-item__thumb-fallback">{{ (post.data.category or post.data.title) | first }}</span>
+          {% endif %}
+        </span>
+        <span class="board-item__content">
+          <span class="board-item__badge">{{ post.data.category or "공지" }}</span>
+          <span class="board-item__title">{{ post.data.title }}{% if post.data.summary %}<span class="excerpt">{{ post.data.summary }}</span>{% endif %}</span>
+        </span>
         <span class="board-item__date">{{ post.date | koDate }}</span>
       </a>
       {% else %}
