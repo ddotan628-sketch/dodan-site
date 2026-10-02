@@ -6,9 +6,9 @@
 
 backend:
   name: github
-  repo: ddotan628-sketch/dodan-site   # 예: smh-dodan/dodan-site  ← 실제 GitHub 저장소로 교체
+  repo: YOUR_GITHUB_USERNAME/dodan-site   # 예: smh-dodan/dodan-site  ← 실제 GitHub 저장소로 교체
   branch: main
-  base_url: https://sveltia-cms-auth.smh-1f0.workers.dev  # sveltia-cms-auth Worker 배포 후 실제 주소로 교체
+  base_url: https://REPLACE-ME.workers.dev  # sveltia-cms-auth Worker 배포 후 실제 주소로 교체
 
 site_url: https://ddnlabsol.com
 logo_url: /assets/logo/icon-256.png
@@ -33,7 +33,10 @@ collections:
         default: "공지"
       - { label: "목록 요약 (한 줄)", name: "summary", widget: "text", required: false, hint: "게시판 목록과 홈 화면 캐러셀에 표시됩니다." }
       - { label: "대표 이미지", name: "image", widget: "image", required: false }
-      - { label: "본문", name: "body", widget: "markdown" }
+      - label: "본문"
+        name: "body"
+        widget: "markdown"
+        hint: "글자 색: [색=빨강]문구[/색] (빨강/주황/노랑/초록/파랑/남색/보라/분홍/검정/회색/갈색 또는 #ff6600 같은 색상코드) · 글자 크기: [크기=크게]문구[/크기] (작게/보통/크게/아주크게 또는 20px)"
 
   - name: "deliveries"
     label: "납품일지"
@@ -47,4 +50,7 @@ collections:
       - { label: "제품/분류명", name: "productName", widget: "string", required: false, hint: "예: Reagent, ELISA Kit, Antibody 등. 목록의 배지로 표시됩니다." }
       - { label: "목록 요약 (한 줄)", name: "summary", widget: "text", required: false }
       - { label: "대표 이미지", name: "image", widget: "image", required: false }
-      - { label: "본문", name: "body", widget: "markdown" }
+      - label: "본문"
+        name: "body"
+        widget: "markdown"
+        hint: "글자 색: [색=빨강]문구[/색] (빨강/주황/노랑/초록/파랑/남색/보라/분홍/검정/회색/갈색 또는 #ff6600 같은 색상코드) · 글자 크기: [크기=크게]문구[/크기] (작게/보통/크게/아주크게 또는 20px)"
