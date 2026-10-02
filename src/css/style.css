@@ -92,6 +92,10 @@ ul { margin: 0; padding: 0; list-style: none; }
   display: flex; align-items: center; justify-content: space-between;
   height: 76px;
 }
+@media (min-width: 721px) {
+  .brand { order: 2; }
+  .site-nav { order: 1; }
+}
 .brand { display: flex; align-items: center; gap: 12px; }
 .brand__mark { height: 26px; width: auto; }
 .brand__text { display: flex; flex-direction: column; line-height: 1.1; }
