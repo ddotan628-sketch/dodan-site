@@ -153,8 +153,8 @@ ul { margin: 0; padding: 0; list-style: none; }
   position: relative;
 }
 .hero__wrap {
-  max-width: var(--maxw); margin: 0 auto; padding: 88px 24px 96px;
-  display: grid; grid-template-columns: 0.95fr 1.05fr; gap: 48px; align-items: center;
+  max-width: 1280px; margin: 0 auto; padding: 88px 24px 96px;
+  display: grid; grid-template-columns: 1.1fr 1fr; gap: 48px; align-items: center;
 }
 .hero__eyebrow {
   display: inline-flex; align-items: center; gap: 10px;
