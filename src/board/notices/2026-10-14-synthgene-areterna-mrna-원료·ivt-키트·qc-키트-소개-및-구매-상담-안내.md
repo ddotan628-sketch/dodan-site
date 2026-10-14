@@ -8,6 +8,7 @@ image: /assets/uploads/캡323213213123223213213213213131처.JPG
 
 도단(DODAN LAB SOLUTION)에서 mRNA·올리고뉴클레오타이드 연구·제조용 원료와 서비스를 공급하는 [색=파랑]**Synthgene Biotechnology Co., Ltd.**[/색](미국 자회사 [색=파랑]**Areterna LLC**[/색])의 제품을 소개합니다. mRNA 합성(IVT)에 필요한 원료부터 공정 후 잔류물을 확인하는 QC 키트까지 한 곳의 카탈로그로 확인하실 수 있으며, 견적·구매는 도단을 통해 상담받으실 수 있습니다.
 
+![](/assets/uploads/캡323213213123223213213213213131처.JPG)
 
 ## Synthgene 소개
 
@@ -23,7 +24,7 @@ Synthgene은 2018년 핵산 화학자들이 설립한 회사로, mRNA 및 올리
 
 | 구분 | 주요 제품 (카탈로그 기준) | 규격·특징 |
 | --- | --- | --- |
-| **Cap Analog** | CAP 4, CAP 5, CAP 7, CAP 8, ARCA, m7G(5')ppp(5')G 등 | 100 mM 암모늄 용액, 순도 [색=초록]**98% 초과**[/색], 100 μL ~ 500 mL |
+| **Cap Analog** | CAP 4, CAP 5, CAP 7, CAP 8, ARCA, m7G(5')ppp(5')G 등 | 100 mM 암모늄 용액, 순도 [색=초록]**98% 초과**[/색], 100 μL \~ 500 mL |
 | **NTP** | ATP, GTP, CTP, UTP | 100 mM / 200 mM 소듐·Tris 용액, 순도 [색=초록]**99% 초과**[/색], GMP / non-GMP 등급 |
 | **변형 뉴클레오타이드** | pUTP, N1-Me-pUTP, 5-Me-CTP, 5-OMe-UTP, m7GTP 등 | pUTP·N1-Me-pUTP·5-OMe-UTP는 GMP 등급 있음 |
 | **효소류** | T7 RNA Polymerase, Inorganic Pyrophosphatase, Murine RNase Inhibitor, DNase I, Vaccinia Capping Enzyme, 2'-O-Methyltransferase 등 | 제한효소(BspQI, BsaI, XbaI, XhoI) 포함 |
@@ -49,7 +50,7 @@ mRNA 정제 후 남아 있는 IVT 공정 유래 불순물(Residue)을 정량하�
 
 ## 서비스 (Areterna)
 
-Areterna는 제품 공급 외에 mRNA 서열 설계·최적화(아미노산 서열 기반으로 UTR·Cap·Poly-A 설계), mRNA 맞춤 합성(mg~g 규모), LNP 제형 스크리닝·캡슐화, 분석법 개발, IND 문서 작성 지원 서비스를 소개하고 있습니다. 서비스 이용 범위와 진행 방식은 문의 시 확인해 드립니다.
+Areterna는 제품 공급 외에 mRNA 서열 설계·최적화(아미노산 서열 기반으로 UTR·Cap·Poly-A 설계), mRNA 맞춤 합성(mg\~g 규모), LNP 제형 스크리닝·캡슐화, 분석법 개발, IND 문서 작성 지원 서비스를 소개하고 있습니다. 서비스 이용 범위와 진행 방식은 문의 시 확인해 드립니다.
 
 ## 구매·문의 안내
 
