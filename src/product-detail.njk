@@ -1,0 +1,51 @@
+---
+layout: base.njk
+pagination:
+  data: products
+  size: 1
+  alias: product
+permalink: "/products/{{ product.slug }}/"
+eleventyExcludeFromCollections: true
+eleventyComputed:
+  title: "{{ product.name | safe }} (Cat.No. {{ product.catalogNo | safe }}) 구매·견적 문의"
+  description: "{{ product.maker | safe }} {{ product.name | safe }} (제품번호 {{ product.catalogNo | safe }}) 구매, 견적, 재고, 납기 문의는 도단(DODAN LAB SOLUTION)에서 확인하세요. 국내 공식 대리점 여부와 관계없이 안정적으로 공급해 드립니다."
+---
+<section class="hero" style="padding-bottom:0;">
+  <div class="hero__wrap" style="grid-template-columns:1fr; padding-bottom:40px;">
+    <div class="hero__copy">
+      <span class="hero__eyebrow">
+        <a href="/makers/">취급분야·메이커</a>
+        {% if product.makerSlug %} / <a href="/makers/{{ product.makerSlug }}/">{{ product.maker }}</a>{% else %} / {{ product.maker }}{% endif %}
+        / {{ product.catalogNo }}
+      </span>
+      <h1>{{ product.name }} <em>Cat.No. {{ product.catalogNo }}</em></h1>
+      <p class="hero__desc">{{ product.maker }}의 {{ product.name }}(제품번호 {{ product.catalogNo }}) 재고·단가·납기를 확인해 드립니다. 국내 공식 대리점 계약 여부와 관계없이, 도단이 직접 소싱하여 공급해 드립니다.</p>
+      <div class="hero__actions">
+        <a class="btn btn-primary" href="/contact/?name={{ product.name | urlencode }}&code={{ product.catalogNo | urlencode }}">이 제품 문의하기</a>
+        {% if product.makerSlug %}<a class="btn btn-ghost" href="/makers/{{ product.makerSlug }}/">{{ product.maker }} 다른 제품 보기</a>{% endif %}
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <article class="maker-tile" style="max-width:560px;">
+      <div class="maker-tile__heading">
+        <h3>{{ product.name }}</h3>
+        <span class="maker-tile__badge">Cat.No. {{ product.catalogNo }}</span>
+      </div>
+      <p class="maker-tile__buy">제조사: {{ product.maker }}{% if product.species %} · 종(Species): {{ product.species }}{% endif %}</p>
+    </article>
+
+    <div class="maker-note" style="margin-top:32px; max-width:640px;">
+      <b>{{ product.catalogNo }}</b> 또는 <b>{{ product.name }}</b>로 재고·단가·납기가 궁금하시면
+      <a href="/contact/?name={{ product.name | urlencode }}&code={{ product.catalogNo | urlencode }}" style="text-decoration:underline;">문의하기</a>
+      버튼을 눌러주세요 — 제품명과 제품번호가 문의 양식에 자동으로 채워집니다.
+    </div>
+
+    <p style="margin-top:24px; font-size:0.9rem;">
+      {% if product.makerSlug %}<a href="/makers/{{ product.makerSlug }}/">&larr; {{ product.maker }} 취급 제품 전체 보기</a>{% else %}<a href="/makers/">&larr; 전체 취급분야·메이커 목록으로 돌아가기</a>{% endif %}
+    </p>
+  </div>
+</section>
