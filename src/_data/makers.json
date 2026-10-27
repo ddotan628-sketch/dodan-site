@@ -2442,5 +2442,2266 @@
     "logo": "TitanChem.png",
     "website": null,
     "initial": "TI"
+  },
+  {
+    "slug": "a2b-chem",
+    "name": "A2B chem",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "A2B chem은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "a2b-chem.png",
+    "website": null,
+    "initial": "AB"
+  },
+  {
+    "slug": "aaa-biotech",
+    "name": "AAA Biotech",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "AAA Biotech은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "aaa-biotech.jpeg",
+    "website": null,
+    "initial": "AA"
+  },
+  {
+    "slug": "aat-bioquest",
+    "name": "AAT Bioquest",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "AAT Bioquest은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "aat-bioquest.png",
+    "website": null,
+    "initial": "AA"
+  },
+  {
+    "slug": "abbomax",
+    "name": "AbboMax",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "AbboMax은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "abbomax.jpeg",
+    "website": null,
+    "initial": "AB"
+  },
+  {
+    "slug": "abcepta",
+    "name": "Abcepta",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Abcepta은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "abcepta.png",
+    "website": null,
+    "initial": "AB"
+  },
+  {
+    "slug": "abeomics",
+    "name": "Abeomics",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Abeomics은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "abeomics.png",
+    "website": null,
+    "initial": "AB"
+  },
+  {
+    "slug": "absolute-antibody",
+    "name": "absolute antibody",
+    "categories": [
+      "antibody"
+    ],
+    "desc": "absolute antibody은(는) 항체 및 관련 면역분석 제품을 전문적으로 공급합니다.",
+    "tag": "취급처",
+    "logo": "absolute-antibody.png",
+    "website": null,
+    "initial": "AB"
+  },
+  {
+    "slug": "accegen",
+    "name": "Accegen",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Accegen은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "accegen.jpeg",
+    "website": null,
+    "initial": "AC"
+  },
+  {
+    "slug": "access-biologicals",
+    "name": "Access Biologicals",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Access Biologicals은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "access-biologicals.jpeg",
+    "website": null,
+    "initial": "AC"
+  },
+  {
+    "slug": "addexabio",
+    "name": "addexabio",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "addexabio은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "addexabio.png",
+    "website": null,
+    "initial": "AD"
+  },
+  {
+    "slug": "adooq-bioscience",
+    "name": "Adooq Bioscience",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Adooq Bioscience은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "adooq-bioscience.png",
+    "website": null,
+    "initial": "AD"
+  },
+  {
+    "slug": "akrivisbio",
+    "name": "AkrivisBio",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "AkrivisBio은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "akrivisbio.jpeg",
+    "website": null,
+    "initial": "AK"
+  },
+  {
+    "slug": "aladdin-scientific",
+    "name": "aladdin scientific",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "aladdin scientific은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "aladdin-scientific.png",
+    "website": null,
+    "initial": "AL"
+  },
+  {
+    "slug": "alb-materials",
+    "name": "ALB Materials",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "ALB Materials은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "alb-materials.png",
+    "website": null,
+    "initial": "AL"
+  },
+  {
+    "slug": "alexotech",
+    "name": "Alexotech",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Alexotech은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "alexotech.png",
+    "website": null,
+    "initial": "AL"
+  },
+  {
+    "slug": "alfa-biotechnology",
+    "name": "Alfa Biotechnology",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Alfa Biotechnology은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": null,
+    "website": null,
+    "initial": "AL"
+  },
+  {
+    "slug": "alphathera",
+    "name": "alphathera",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "alphathera은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "alphathera.png",
+    "website": null,
+    "initial": "AL"
+  },
+  {
+    "slug": "anaerobe-systems",
+    "name": "Anaerobe Systems",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Anaerobe Systems은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "anaerobe-systems.jpeg",
+    "website": null,
+    "initial": "AN"
+  },
+  {
+    "slug": "anatomic",
+    "name": "Anatomic",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Anatomic은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "anatomic.jpeg",
+    "website": null,
+    "initial": "AN"
+  },
+  {
+    "slug": "anchor-molecular",
+    "name": "Anchor Molecular",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Anchor Molecular은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "anchor-molecular.png",
+    "website": null,
+    "initial": "AN"
+  },
+  {
+    "slug": "angene-chemical",
+    "name": "Angene Chemical",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "Angene Chemical은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": null,
+    "website": null,
+    "initial": "AN"
+  },
+  {
+    "slug": "angio-proteomie",
+    "name": "ANGIO-PROTEOMIE",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "ANGIO-PROTEOMIE은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "angio-proteomie.jpeg",
+    "website": null,
+    "initial": "AN"
+  },
+  {
+    "slug": "antibodies-com",
+    "name": "Antibodies.com",
+    "categories": [
+      "antibody"
+    ],
+    "desc": "Antibodies.com은(는) 항체 및 관련 면역분석 제품을 전문적으로 공급합니다.",
+    "tag": "취급처",
+    "logo": "antibodies-com.png",
+    "website": null,
+    "initial": "AN"
+  },
+  {
+    "slug": "antibodiesinc",
+    "name": "Antibodiesinc",
+    "categories": [
+      "antibody"
+    ],
+    "desc": "Antibodiesinc은(는) 항체 및 관련 면역분석 제품을 전문적으로 공급합니다.",
+    "tag": "취급처",
+    "logo": "antibodiesinc.png",
+    "website": null,
+    "initial": "AN"
+  },
+  {
+    "slug": "aobious",
+    "name": "AOBIOUS",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "AOBIOUS은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "aobious.jpeg",
+    "website": null,
+    "initial": "AO"
+  },
+  {
+    "slug": "arbor-assays",
+    "name": "Arbor Assays",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Arbor Assays은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "arbor-assays.jpeg",
+    "website": null,
+    "initial": "AR"
+  },
+  {
+    "slug": "arex-biosciences",
+    "name": "AREX Biosciences",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "AREX Biosciences은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "arex-biosciences.jpeg",
+    "website": null,
+    "initial": "AR"
+  },
+  {
+    "slug": "assay-biotech",
+    "name": "Assay biotech",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Assay biotech은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "assay-biotech.jpeg",
+    "website": null,
+    "initial": "AS"
+  },
+  {
+    "slug": "assayvector",
+    "name": "AssayVector",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "AssayVector은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "assayvector.png",
+    "website": null,
+    "initial": "AS"
+  },
+  {
+    "slug": "ats",
+    "name": "ATS",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "ATS은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": null,
+    "website": null,
+    "initial": "AT"
+  },
+  {
+    "slug": "aurora-biolabs",
+    "name": "Aurora Biolabs",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Aurora Biolabs은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "aurora-biolabs.png",
+    "website": null,
+    "initial": "AU"
+  },
+  {
+    "slug": "aviva-systems-biology",
+    "name": "Aviva Systems Biology",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Aviva Systems Biology은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "aviva-systems-biology.png",
+    "website": null,
+    "initial": "AV"
+  },
+  {
+    "slug": "axol-bioscience",
+    "name": "Axol Bioscience",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Axol Bioscience은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "axol-bioscience.png",
+    "website": null,
+    "initial": "AX"
+  },
+  {
+    "slug": "axon-medchem",
+    "name": "Axon Medchem",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "Axon Medchem은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "axon-medchem.jpeg",
+    "website": null,
+    "initial": "AX"
+  },
+  {
+    "slug": "bachem",
+    "name": "BACHEM",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "BACHEM은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "bachem.png",
+    "website": null,
+    "initial": "BA"
+  },
+  {
+    "slug": "bbi-solutions",
+    "name": "BBI Solutions",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "BBI Solutions은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "bbi-solutions.png",
+    "website": null,
+    "initial": "BB"
+  },
+  {
+    "slug": "bellbrook",
+    "name": "Bellbrook",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Bellbrook은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "bellbrook.png",
+    "website": null,
+    "initial": "BE"
+  },
+  {
+    "slug": "beta-lifescience",
+    "name": "Beta LifeScience",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Beta LifeScience은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "beta-lifescience.png",
+    "website": null,
+    "initial": "BE"
+  },
+  {
+    "slug": "beyotime-biotech",
+    "name": "Beyotime Biotech",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Beyotime Biotech은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "beyotime-biotech.png",
+    "website": null,
+    "initial": "BE"
+  },
+  {
+    "slug": "bioassay-systems",
+    "name": "BioAssay Systems",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "BioAssay Systems은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "bioassay-systems.jpeg",
+    "website": null,
+    "initial": "BI"
+  },
+  {
+    "slug": "biocare-medical",
+    "name": "Biocare Medical",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Biocare Medical은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "biocare-medical.jpeg",
+    "website": null,
+    "initial": "BI"
+  },
+  {
+    "slug": "biochemazone",
+    "name": "BioChemazone",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "BioChemazone은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "biochemazone.jpeg",
+    "website": null,
+    "initial": "BI"
+  },
+  {
+    "slug": "bioclone",
+    "name": "Bioclone",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Bioclone은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "bioclone.png",
+    "website": null,
+    "initial": "BI"
+  },
+  {
+    "slug": "biointron-biological",
+    "name": "Biointron Biological",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Biointron Biological은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "biointron-biological.png",
+    "website": null,
+    "initial": "BI"
+  },
+  {
+    "slug": "biolog-life-science",
+    "name": "BIOLOG Life Science",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "BIOLOG Life Science은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "biolog-life-science.png",
+    "website": null,
+    "initial": "BI"
+  },
+  {
+    "slug": "biomat",
+    "name": "Biomat",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Biomat은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "biomat.png",
+    "website": null,
+    "initial": "BI"
+  },
+  {
+    "slug": "biomatik",
+    "name": "Biomatik",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Biomatik은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "biomatik.png",
+    "website": null,
+    "initial": "BI"
+  },
+  {
+    "slug": "biopharma-peg",
+    "name": "Biopharma PEG",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "Biopharma PEG은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "biopharma-peg.png",
+    "website": null,
+    "initial": "BI"
+  },
+  {
+    "slug": "biopurify",
+    "name": "Biopurify",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Biopurify은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "biopurify.png",
+    "website": null,
+    "initial": "BI"
+  },
+  {
+    "slug": "biosensis",
+    "name": "Biosensis",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Biosensis은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "biosensis.png",
+    "website": null,
+    "initial": "BI"
+  },
+  {
+    "slug": "biosynth",
+    "name": "Biosynth",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Biosynth은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "biosynth.png",
+    "website": null,
+    "initial": "BI"
+  },
+  {
+    "slug": "biovenic",
+    "name": "BioVenic",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "BioVenic은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "biovenic.png",
+    "website": null,
+    "initial": "BI"
+  },
+  {
+    "slug": "boc-sciences",
+    "name": "BOC Sciences",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "BOC Sciences은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "boc-sciences.png",
+    "website": null,
+    "initial": "BO"
+  },
+  {
+    "slug": "boster-bio",
+    "name": "Boster Bio",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Boster Bio은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "boster-bio.png",
+    "website": null,
+    "initial": "BO"
+  },
+  {
+    "slug": "broadpharm",
+    "name": "BroadPharm",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "BroadPharm은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "broadpharm.png",
+    "website": null,
+    "initial": "BR"
+  },
+  {
+    "slug": "bulldog-bio",
+    "name": "Bulldog Bio",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Bulldog Bio은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "bulldog-bio.png",
+    "website": null,
+    "initial": "BU"
+  },
+  {
+    "slug": "canvax",
+    "name": "CANVAX",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "CANVAX은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "canvax.png",
+    "website": null,
+    "initial": "CA"
+  },
+  {
+    "slug": "cayman-chemical",
+    "name": "Cayman Chemical",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "Cayman Chemical은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": null,
+    "website": null,
+    "initial": "CA"
+  },
+  {
+    "slug": "cd-bioparticles",
+    "name": "CD Bioparticles",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "CD Bioparticles은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "cd-bioparticles.png",
+    "website": null,
+    "initial": "CD"
+  },
+  {
+    "slug": "cefety-bioscience",
+    "name": "CEFETY Bioscience",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "CEFETY Bioscience은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "cefety-bioscience.png",
+    "website": null,
+    "initial": "CE"
+  },
+  {
+    "slug": "cell-applications",
+    "name": "Cell Applications",
+    "categories": [
+      "reagent",
+      "media"
+    ],
+    "desc": "Cell Applications은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "cell-applications.png",
+    "website": null,
+    "initial": "CE"
+  },
+  {
+    "slug": "cell-biologics",
+    "name": "Cell Biologics",
+    "categories": [
+      "reagent",
+      "media"
+    ],
+    "desc": "Cell Biologics은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "cell-biologics.jpeg",
+    "website": null,
+    "initial": "CE"
+  },
+  {
+    "slug": "cell-lines-service",
+    "name": "Cell Lines Service",
+    "categories": [
+      "reagent",
+      "media"
+    ],
+    "desc": "Cell Lines Service은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "cell-lines-service.png",
+    "website": null,
+    "initial": "CE"
+  },
+  {
+    "slug": "cellntec",
+    "name": "CELLnTEC",
+    "categories": [
+      "reagent",
+      "media"
+    ],
+    "desc": "CELLnTEC은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "cellntec.jpeg",
+    "website": null,
+    "initial": "CE"
+  },
+  {
+    "slug": "cells-online",
+    "name": "Cells online",
+    "categories": [
+      "reagent",
+      "media"
+    ],
+    "desc": "Cells online은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "cells-online.png",
+    "website": null,
+    "initial": "CE"
+  },
+  {
+    "slug": "celprogen",
+    "name": "Celprogen",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Celprogen은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "celprogen.jpeg",
+    "website": null,
+    "initial": "CE"
+  },
+  {
+    "slug": "chemfaces",
+    "name": "ChemFaces",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "ChemFaces은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "chemfaces.png",
+    "website": null,
+    "initial": "CH"
+  },
+  {
+    "slug": "chemietek",
+    "name": "Chemietek",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "Chemietek은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "chemietek.png",
+    "website": null,
+    "initial": "CH"
+  },
+  {
+    "slug": "chemnorm",
+    "name": "ChemNorm",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "ChemNorm은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": null,
+    "website": null,
+    "initial": "CH"
+  },
+  {
+    "slug": "chondrex",
+    "name": "Chondrex",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Chondrex은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "chondrex.png",
+    "website": null,
+    "initial": "CH"
+  },
+  {
+    "slug": "cloud-clone",
+    "name": "Cloud-clone",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Cloud-clone은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "cloud-clone.png",
+    "website": null,
+    "initial": "CL"
+  },
+  {
+    "slug": "combi-blocks",
+    "name": "Combi-Blocks",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Combi-Blocks은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": null,
+    "website": null,
+    "initial": "CO"
+  },
+  {
+    "slug": "conju-probe",
+    "name": "Conju-Probe",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Conju-Probe은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "conju-probe.jpg",
+    "website": null,
+    "initial": "CO"
+  },
+  {
+    "slug": "creative-bioarray",
+    "name": "Creative Bioarray",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Creative Bioarray은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "creative-bioarray.jpg",
+    "website": null,
+    "initial": "CR"
+  },
+  {
+    "slug": "creative-diagnostics",
+    "name": "Creative Diagnostics",
+    "categories": [
+      "consumable"
+    ],
+    "desc": "Creative Diagnostics은(는) 진단·실험용 소모품을 공급합니다.",
+    "tag": "취급처",
+    "logo": "creative-diagnostics.jpg",
+    "website": null,
+    "initial": "CR"
+  },
+  {
+    "slug": "creative-enzymes",
+    "name": "Creative Enzymes",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Creative Enzymes은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "creative-enzymes.png",
+    "website": null,
+    "initial": "CR"
+  },
+  {
+    "slug": "creative-pegworks",
+    "name": "Creative PEGWorks",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Creative PEGWorks은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "creative-pegworks.png",
+    "website": null,
+    "initial": "CR"
+  },
+  {
+    "slug": "creative-peptides",
+    "name": "Creative Peptides",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Creative Peptides은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "creative-peptides.png",
+    "website": null,
+    "initial": "CR"
+  },
+  {
+    "slug": "croyez-bioscience",
+    "name": "Croyez Bioscience",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Croyez Bioscience은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "croyez-bioscience.png",
+    "website": null,
+    "initial": "CR"
+  },
+  {
+    "slug": "cyagen",
+    "name": "Cyagen",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Cyagen은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "cyagen.png",
+    "website": null,
+    "initial": "CY"
+  },
+  {
+    "slug": "cyanagen",
+    "name": "Cyanagen",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Cyanagen은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "cyanagen.jpg",
+    "website": null,
+    "initial": "CY"
+  },
+  {
+    "slug": "cytodiagnostics",
+    "name": "Cytodiagnostics",
+    "categories": [
+      "consumable"
+    ],
+    "desc": "Cytodiagnostics은(는) 진단·실험용 소모품을 공급합니다.",
+    "tag": "취급처",
+    "logo": "cytodiagnostics.jpg",
+    "website": null,
+    "initial": "CY"
+  },
+  {
+    "slug": "cytoskeleton",
+    "name": "cytoskeleton",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "cytoskeleton은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "cytoskeleton.png",
+    "website": null,
+    "initial": "CY"
+  },
+  {
+    "slug": "diagnostics-biosystems",
+    "name": "Diagnostics BioSystems",
+    "categories": [
+      "consumable"
+    ],
+    "desc": "Diagnostics BioSystems은(는) 진단·실험용 소모품을 공급합니다.",
+    "tag": "취급처",
+    "logo": "diagnostics-biosystems.png",
+    "website": null,
+    "initial": "DI"
+  },
+  {
+    "slug": "dima-biotech",
+    "name": "Dima Biotech",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Dima Biotech은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "dima-biotech.png",
+    "website": null,
+    "initial": "DI"
+  },
+  {
+    "slug": "eagle-biosciences",
+    "name": "Eagle Biosciences",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "Eagle Biosciences은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "eagle-biosciences.jpg",
+    "website": null,
+    "initial": "EA"
+  },
+  {
+    "slug": "eastcoastbio",
+    "name": "EastCoastBio",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "EastCoastBio은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "eastcoastbio.jpg",
+    "website": null,
+    "initial": "EA"
+  },
+  {
+    "slug": "echelon-biosciences",
+    "name": "Echelon Biosciences",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "Echelon Biosciences은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "echelon-biosciences.png",
+    "website": null,
+    "initial": "EC"
+  },
+  {
+    "slug": "eenzyme",
+    "name": "eENZYME",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "eENZYME은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "eenzyme.jpg",
+    "website": null,
+    "initial": "EE"
+  },
+  {
+    "slug": "eiger-diagnostics",
+    "name": "Eiger Diagnostics",
+    "categories": [
+      "consumable"
+    ],
+    "desc": "Eiger Diagnostics은(는) 진단·실험용 소모품을 공급합니다.",
+    "tag": "취급처",
+    "logo": "eiger-diagnostics.png",
+    "website": null,
+    "initial": "EI"
+  },
+  {
+    "slug": "epoch-life-science",
+    "name": "Epoch Life Science",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Epoch Life Science은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "epoch-life-science.jpg",
+    "website": null,
+    "initial": "EP"
+  },
+  {
+    "slug": "equitech-bio",
+    "name": "Equitech Bio",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Equitech Bio은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "equitech-bio.jpg",
+    "website": null,
+    "initial": "EQ"
+  },
+  {
+    "slug": "eurogentec",
+    "name": "Eurogentec",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Eurogentec은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "eurogentec.png",
+    "website": null,
+    "initial": "EU"
+  },
+  {
+    "slug": "exreprotein",
+    "name": "Exreprotein",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Exreprotein은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "exreprotein.jpg",
+    "website": null,
+    "initial": "EX"
+  },
+  {
+    "slug": "fabgennix",
+    "name": "FabGennix",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "FabGennix은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "fabgennix.png",
+    "website": null,
+    "initial": "FA"
+  },
+  {
+    "slug": "feiyue-bio",
+    "name": "feiyue-bio",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "feiyue-bio은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "feiyue-bio.jpg",
+    "website": null,
+    "initial": "FE"
+  },
+  {
+    "slug": "fine-science-tools",
+    "name": "Fine Science Tools",
+    "categories": [
+      "instrument"
+    ],
+    "desc": "Fine Science Tools은(는) 연구용 장비·기기를 공급합니다.",
+    "tag": "취급처",
+    "logo": null,
+    "website": null,
+    "initial": "FI"
+  },
+  {
+    "slug": "finetest",
+    "name": "FineTest",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "FineTest은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": null,
+    "website": null,
+    "initial": "FI"
+  },
+  {
+    "slug": "focus-biomolecules",
+    "name": "Focus Biomolecules",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Focus Biomolecules은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "focus-biomolecules.png",
+    "website": null,
+    "initial": "FO"
+  },
+  {
+    "slug": "gandp-biosciences",
+    "name": "G&P Biosciences",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "G&P Biosciences은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "gandp-biosciences.jpg",
+    "website": null,
+    "initial": "GP"
+  },
+  {
+    "slug": "gelest",
+    "name": "Gelest",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Gelest은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "gelest.png",
+    "website": null,
+    "initial": "GE"
+  },
+  {
+    "slug": "gentarget-inc",
+    "name": "GenTarget Inc",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "GenTarget Inc은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "gentarget-inc.png",
+    "website": null,
+    "initial": "GE"
+  },
+  {
+    "slug": "glow-biologics",
+    "name": "Glow Biologics",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Glow Biologics은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "glow-biologics.jpg",
+    "website": null,
+    "initial": "GL"
+  },
+  {
+    "slug": "glyconz",
+    "name": "GlycoNZ",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "GlycoNZ은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "glyconz.png",
+    "website": null,
+    "initial": "GL"
+  },
+  {
+    "slug": "hello-bio",
+    "name": "Hello Bio",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Hello Bio은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "hello-bio.png",
+    "website": null,
+    "initial": "HE"
+  },
+  {
+    "slug": "hoffman-fine-chemicals",
+    "name": "Hoffman Fine Chemicals",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "Hoffman Fine Chemicals은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "hoffman-fine-chemicals.png",
+    "website": null,
+    "initial": "HO"
+  },
+  {
+    "slug": "huabio",
+    "name": "HUABIO",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "HUABIO은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "huabio.png",
+    "website": null,
+    "initial": "HU"
+  },
+  {
+    "slug": "ibi-scientific",
+    "name": "IBI Scientific",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "IBI Scientific은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "ibi-scientific.png",
+    "website": null,
+    "initial": "IB"
+  },
+  {
+    "slug": "ibl-america",
+    "name": "IBL-America",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "IBL-America은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "ibl-america.jpg",
+    "website": null,
+    "initial": "IB"
+  },
+  {
+    "slug": "ibt-bioservices",
+    "name": "IBT bioservices",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "IBT bioservices은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "ibt-bioservices.png",
+    "website": null,
+    "initial": "IB"
+  },
+  {
+    "slug": "immunoreagents",
+    "name": "Immunoreagents",
+    "categories": [
+      "antibody"
+    ],
+    "desc": "Immunoreagents은(는) 항체 및 관련 면역분석 제품을 전문적으로 공급합니다.",
+    "tag": "취급처",
+    "logo": "immunoreagents.png",
+    "website": null,
+    "initial": "IM"
+  },
+  {
+    "slug": "immusmol",
+    "name": "Immusmol",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Immusmol은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "immusmol.png",
+    "website": null,
+    "initial": "IM"
+  },
+  {
+    "slug": "innoprot",
+    "name": "Innoprot",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Innoprot은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "innoprot.jpg",
+    "website": null,
+    "initial": "IN"
+  },
+  {
+    "slug": "innovex-biosciences",
+    "name": "Innovex biosciences",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "Innovex biosciences은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "innovex-biosciences.png",
+    "website": null,
+    "initial": "IN"
+  },
+  {
+    "slug": "inspiralis",
+    "name": "Inspiralis",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Inspiralis은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "inspiralis.png",
+    "website": null,
+    "initial": "IN"
+  },
+  {
+    "slug": "intact-genomics",
+    "name": "Intact Genomics",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Intact Genomics은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "intact-genomics.png",
+    "website": null,
+    "initial": "IN"
+  },
+  {
+    "slug": "integral-molecular",
+    "name": "Integral Molecular",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Integral Molecular은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "integral-molecular.png",
+    "website": null,
+    "initial": "IN"
+  },
+  {
+    "slug": "invivochem",
+    "name": "InvivoChem",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "InvivoChem은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "invivochem.jpg",
+    "website": null,
+    "initial": "IN"
+  },
+  {
+    "slug": "ion-biosciences",
+    "name": "ION Biosciences",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "ION Biosciences은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "ion-biosciences.jpg",
+    "website": null,
+    "initial": "IO"
+  },
+  {
+    "slug": "iris-biotech",
+    "name": "Iris Biotech",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Iris Biotech은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "iris-biotech.png",
+    "website": null,
+    "initial": "IR"
+  },
+  {
+    "slug": "ixcells-biotechnologies",
+    "name": "iXCells Biotechnologies",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "iXCells Biotechnologies은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "ixcells-biotechnologies.png",
+    "website": null,
+    "initial": "IX"
+  },
+  {
+    "slug": "jena-bioscience",
+    "name": "Jena bioscience",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Jena bioscience은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "jena-bioscience.png",
+    "website": null,
+    "initial": "JE"
+  },
+  {
+    "slug": "kactusbio",
+    "name": "Kactusbio",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Kactusbio은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "kactusbio.png",
+    "website": null,
+    "initial": "KA"
+  },
+  {
+    "slug": "kerafast",
+    "name": "Kerafast",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Kerafast은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "kerafast.jpg",
+    "website": null,
+    "initial": "KE"
+  },
+  {
+    "slug": "kopf-instruments",
+    "name": "Kopf Instruments",
+    "categories": [
+      "instrument"
+    ],
+    "desc": "Kopf Instruments은(는) 연구용 장비·기기를 공급합니다.",
+    "tag": "취급처",
+    "logo": "kopf-instruments.png",
+    "website": null,
+    "initial": "KO"
+  },
+  {
+    "slug": "krishgen-biosystems",
+    "name": "Krishgen Biosystems",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Krishgen Biosystems은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "krishgen-biosystems.png",
+    "website": null,
+    "initial": "KR"
+  },
+  {
+    "slug": "larodan",
+    "name": "Larodan",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Larodan은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "larodan.png",
+    "website": null,
+    "initial": "LA"
+  },
+  {
+    "slug": "lee-biosolutions",
+    "name": "Lee Biosolutions",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Lee Biosolutions은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "lee-biosolutions.png",
+    "website": null,
+    "initial": "LE"
+  },
+  {
+    "slug": "leinco-technologies",
+    "name": "Leinco Technologies",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Leinco Technologies은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "leinco-technologies.png",
+    "website": null,
+    "initial": "LE"
+  },
+  {
+    "slug": "list-labs",
+    "name": "List Labs",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "List Labs은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "list-labs.png",
+    "website": null,
+    "initial": "LI"
+  },
+  {
+    "slug": "lkt-labs",
+    "name": "LKT Labs",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "LKT Labs은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "lkt-labs.png",
+    "website": null,
+    "initial": "LK"
+  },
+  {
+    "slug": "ludger-ltd",
+    "name": "Ludger Ltd",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Ludger Ltd은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "ludger-ltd.jpg",
+    "website": null,
+    "initial": "LU"
+  },
+  {
+    "slug": "lumiprobe",
+    "name": "Lumiprobe",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Lumiprobe은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "lumiprobe.png",
+    "website": null,
+    "initial": "LU"
+  },
+  {
+    "slug": "magbio",
+    "name": "MAGBIO",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "MAGBIO은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "magbio.png",
+    "website": null,
+    "initial": "MA"
+  },
+  {
+    "slug": "major-bioscience",
+    "name": "Major Bioscience",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Major Bioscience은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "major-bioscience.png",
+    "website": null,
+    "initial": "MA"
+  },
+  {
+    "slug": "matrigen",
+    "name": "Matrigen",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Matrigen은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "matrigen.jpg",
+    "website": null,
+    "initial": "MA"
+  },
+  {
+    "slug": "mclab",
+    "name": "McLab",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "McLab은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "mclab.png",
+    "website": null,
+    "initial": "MC"
+  },
+  {
+    "slug": "medkoo-biosciences",
+    "name": "MedKoo Biosciences",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "MedKoo Biosciences은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "medkoo-biosciences.jpg",
+    "website": null,
+    "initial": "ME"
+  },
+  {
+    "slug": "messenger-bio",
+    "name": "Messenger bio",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Messenger bio은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "messenger-bio.png",
+    "website": null,
+    "initial": "ME"
+  },
+  {
+    "slug": "milecell",
+    "name": "milecell",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "milecell은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "milecell.png",
+    "website": null,
+    "initial": "MI"
+  },
+  {
+    "slug": "ms-validated-antibodies",
+    "name": "MS Validated Antibodies",
+    "categories": [
+      "antibody"
+    ],
+    "desc": "MS Validated Antibodies은(는) 항체 및 관련 면역분석 제품을 전문적으로 공급합니다.",
+    "tag": "취급처",
+    "logo": "ms-validated-antibodies.png",
+    "website": null,
+    "initial": "MS"
+  },
+  {
+    "slug": "nacalai-tesque",
+    "name": "Nacalai tesque",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Nacalai tesque은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "nacalai-tesque.png",
+    "website": null,
+    "initial": "NA"
+  },
+  {
+    "slug": "neogen",
+    "name": "NEOGEN",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "NEOGEN은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "neogen.png",
+    "website": null,
+    "initial": "NE"
+  },
+  {
+    "slug": "nippon-genetics",
+    "name": "NIPPON Genetics",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "NIPPON Genetics은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "nippon-genetics.png",
+    "website": null,
+    "initial": "NI"
+  },
+  {
+    "slug": "novateinbio",
+    "name": "NovateinBio",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "NovateinBio은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "novateinbio.jpg",
+    "website": null,
+    "initial": "NO"
+  },
+  {
+    "slug": "novopro-bioscience",
+    "name": "NovoPro Bioscience",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "NovoPro Bioscience은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "novopro-bioscience.jpg",
+    "website": null,
+    "initial": "NO"
+  },
+  {
+    "slug": "novoprotein",
+    "name": "Novoprotein",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Novoprotein은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "novoprotein.png",
+    "website": null,
+    "initial": "NO"
+  },
+  {
+    "slug": "nsj-bioreagents",
+    "name": "NSJ Bioreagents",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "NSJ Bioreagents은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "nsj-bioreagents.jpg",
+    "website": null,
+    "initial": "NS"
+  },
+  {
+    "slug": "nzytech",
+    "name": "NZYTech",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "NZYTech은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "nzytech.png",
+    "website": null,
+    "initial": "NZ"
+  },
+  {
+    "slug": "phoenix-pharmaceuticals-inc",
+    "name": "Phoenix Pharmaceuticals, Inc.",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "Phoenix Pharmaceuticals, Inc.은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "phoenix-pharmaceuticals-inc.png",
+    "website": null,
+    "initial": "PH"
+  },
+  {
+    "slug": "phosphosolutions",
+    "name": "Phosphosolutions",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Phosphosolutions은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "phosphosolutions.png",
+    "website": null,
+    "initial": "PH"
+  },
+  {
+    "slug": "porphychem",
+    "name": "PorphyChem",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "PorphyChem은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "porphychem.jpg",
+    "website": null,
+    "initial": "PO"
+  },
+  {
+    "slug": "premetek",
+    "name": "Premetek",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Premetek은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "premetek.png",
+    "website": null,
+    "initial": "PR"
+  },
+  {
+    "slug": "procell",
+    "name": "procell",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "procell은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "procell.png",
+    "website": null,
+    "initial": "PR"
+  },
+  {
+    "slug": "prosci",
+    "name": "ProSci",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "ProSci은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "prosci.png",
+    "website": null,
+    "initial": "PR"
+  },
+  {
+    "slug": "prospec",
+    "name": "ProSpec",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "ProSpec은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "prospec.png",
+    "website": null,
+    "initial": "PR"
+  },
+  {
+    "slug": "protech",
+    "name": "Protech",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Protech은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": null,
+    "website": null,
+    "initial": "PR"
+  },
+  {
+    "slug": "proteogenix",
+    "name": "ProteoGenix",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "ProteoGenix은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "proteogenix.png",
+    "website": null,
+    "initial": "PR"
+  },
+  {
+    "slug": "reaction-biology",
+    "name": "Reaction Biology",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Reaction Biology은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "reaction-biology.png",
+    "website": null,
+    "initial": "RE"
+  },
+  {
+    "slug": "reddot-biotech",
+    "name": "Reddot Biotech",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Reddot Biotech은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "reddot-biotech.png",
+    "website": null,
+    "initial": "RE"
+  },
+  {
+    "slug": "repligen",
+    "name": "Repligen",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Repligen은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "repligen.png",
+    "website": null,
+    "initial": "RE"
+  },
+  {
+    "slug": "reprocell",
+    "name": "REPROCELL",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "REPROCELL은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "reprocell.png",
+    "website": null,
+    "initial": "RE"
+  },
+  {
+    "slug": "revmab",
+    "name": "RevMAb",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "RevMAb은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "revmab.jpg",
+    "website": null,
+    "initial": "RE"
+  },
+  {
+    "slug": "ruixibio",
+    "name": "RUIXIBIO",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "RUIXIBIO은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "ruixibio.png",
+    "website": null,
+    "initial": "RU"
+  },
+  {
+    "slug": "sanguine-biosciences",
+    "name": "Sanguine Biosciences",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "Sanguine Biosciences은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "sanguine-biosciences.png",
+    "website": null,
+    "initial": "SA"
+  },
+  {
+    "slug": "sanyou-biopharmaceuticals",
+    "name": "Sanyou Biopharmaceuticals",
+    "categories": [
+      "chemical"
+    ],
+    "desc": "Sanyou Biopharmaceuticals은(는) 특수 화학물질·빌딩블록 등을 공급하는 화학 전문 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "sanyou-biopharmaceuticals.png",
+    "website": null,
+    "initial": "SA"
+  },
+  {
+    "slug": "sciencell-research-laboratories",
+    "name": "ScienCell Research Laboratories",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "ScienCell Research Laboratories은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "sciencell-research-laboratories.jpg",
+    "website": null,
+    "initial": "SC"
+  },
+  {
+    "slug": "sdix",
+    "name": "SDIX",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "SDIX은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "sdix.jpg",
+    "website": null,
+    "initial": "SD"
+  },
+  {
+    "slug": "servicebio",
+    "name": "Servicebio",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Servicebio은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "servicebio.png",
+    "website": null,
+    "initial": "SE"
+  },
+  {
+    "slug": "setareh-biotech",
+    "name": "Setareh biotech",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Setareh biotech은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "setareh-biotech.png",
+    "website": null,
+    "initial": "SE"
+  },
+  {
+    "slug": "sibenzyme",
+    "name": "SibEnzyme",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "SibEnzyme은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "sibenzyme.png",
+    "website": null,
+    "initial": "SI"
+  },
+  {
+    "slug": "signalway-antibody",
+    "name": "Signalway Antibody",
+    "categories": [
+      "antibody"
+    ],
+    "desc": "Signalway Antibody은(는) 항체 및 관련 면역분석 제품을 전문적으로 공급합니다.",
+    "tag": "취급처",
+    "logo": "signalway-antibody.png",
+    "website": null,
+    "initial": "SI"
+  },
+  {
+    "slug": "stoelting",
+    "name": "Stoelting",
+    "categories": [
+      "instrument"
+    ],
+    "desc": "Stoelting은(는) 연구용 장비·기기를 공급합니다.",
+    "tag": "취급처",
+    "logo": null,
+    "website": null,
+    "initial": "ST"
+  },
+  {
+    "slug": "stressmarq",
+    "name": "StressMarq",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "StressMarq은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "stressmarq.png",
+    "website": null,
+    "initial": "ST"
+  },
+  {
+    "slug": "sunlong-biotech",
+    "name": "Sunlong Biotech",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Sunlong Biotech은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "sunlong-biotech.png",
+    "website": null,
+    "initial": "SU"
+  },
+  {
+    "slug": "synthose",
+    "name": "Synthose",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Synthose은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "synthose.png",
+    "website": null,
+    "initial": "SY"
+  },
+  {
+    "slug": "thomas-scientific",
+    "name": "Thomas Scientific",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Thomas Scientific은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "thomas-scientific.png",
+    "website": null,
+    "initial": "TH"
+  },
+  {
+    "slug": "tisch",
+    "name": "TISCH",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "TISCH은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "tisch.jpg",
+    "website": null,
+    "initial": "TI"
+  },
+  {
+    "slug": "tribioscience",
+    "name": "Tribioscience",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Tribioscience은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "tribioscience.jpg",
+    "website": null,
+    "initial": "TR"
+  },
+  {
+    "slug": "ubigene",
+    "name": "Ubigene",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Ubigene은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "ubigene.jpg",
+    "website": null,
+    "initial": "UB"
+  },
+  {
+    "slug": "us-biological",
+    "name": "US Biological",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "US Biological은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "us-biological.png",
+    "website": null,
+    "initial": "US"
+  },
+  {
+    "slug": "vector-laboratories",
+    "name": "Vector Laboratories",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Vector Laboratories은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "vector-laboratories.png",
+    "website": null,
+    "initial": "VE"
+  },
+  {
+    "slug": "virogen",
+    "name": "Virogen",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Virogen은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "virogen.jpg",
+    "website": null,
+    "initial": "VI"
+  },
+  {
+    "slug": "virusys-corporation",
+    "name": "Virusys Corporation",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Virusys Corporation은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": null,
+    "website": null,
+    "initial": "VI"
+  },
+  {
+    "slug": "vitas-m-laboratory",
+    "name": "Vitas-M Laboratory",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Vitas-M Laboratory은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "vitas-m-laboratory.png",
+    "website": null,
+    "initial": "VI"
+  },
+  {
+    "slug": "vrl-diagnostics",
+    "name": "VRL Diagnostics",
+    "categories": [
+      "consumable"
+    ],
+    "desc": "VRL Diagnostics은(는) 진단·실험용 소모품을 공급합니다.",
+    "tag": "취급처",
+    "logo": "vrl-diagnostics.jpg",
+    "website": null,
+    "initial": "VR"
+  },
+  {
+    "slug": "zen-bio",
+    "name": "Zen-Bio",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Zen-Bio은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": "zen-bio.png",
+    "website": null,
+    "initial": "ZE"
+  },
+  {
+    "slug": "zen-bioscience",
+    "name": "Zen-bioscience",
+    "categories": [
+      "reagent"
+    ],
+    "desc": "Zen-bioscience은(는) 연구용 시약·바이오케미칼 제품을 공급하는 해외 서플라이어입니다.",
+    "tag": "취급처",
+    "logo": null,
+    "website": null,
+    "initial": "ZE"
   }
 ]
