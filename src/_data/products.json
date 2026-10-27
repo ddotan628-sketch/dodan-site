@@ -1,0 +1,3503 @@
+[
+  {
+    "slug": "af-100-15",
+    "catalogNo": "AF-100-15",
+    "name": "Human EGF",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-22",
+    "catalogNo": "310-22",
+    "name": "Human AITRL",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-24",
+    "catalogNo": "450-24",
+    "name": "Human Adiponectin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "160-08",
+    "catalogNo": "160-08",
+    "name": "Human Agrin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-55b",
+    "catalogNo": "100-55B",
+    "name": "Human Amphiregulin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "130-06",
+    "catalogNo": "130-06",
+    "name": "Human ANG-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "130-07",
+    "catalogNo": "130-07",
+    "name": "Human ANG-2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "130-18",
+    "catalogNo": "130-18",
+    "name": "Human ANGPTL-3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "130-22",
+    "catalogNo": "130-22",
+    "name": "Human ANGPTL-7",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "350-11",
+    "catalogNo": "350-11",
+    "name": "Human ApoA-I",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "350-12",
+    "catalogNo": "350-12",
+    "name": "Human ApoE2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "350-02",
+    "catalogNo": "350-02",
+    "name": "Human ApoE3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "350-04",
+    "catalogNo": "350-04",
+    "name": "Human ApoE4",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-13",
+    "catalogNo": "300-13",
+    "name": "Human Apo-SAA",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-53",
+    "catalogNo": "300-53",
+    "name": "Human Apo-SAA1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-10c",
+    "catalogNo": "310-10C",
+    "name": "Human APRIL",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-17",
+    "catalogNo": "450-17",
+    "name": "Human Artemin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-11",
+    "catalogNo": "310-11",
+    "name": "Human 4-1BB Ligand",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-15",
+    "catalogNo": "310-15",
+    "name": "Human 4-1BB Receptor",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-32",
+    "catalogNo": "310-32",
+    "name": "Human B7-1 Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-33",
+    "catalogNo": "310-33",
+    "name": "Human B7-2 Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-37",
+    "catalogNo": "310-37",
+    "name": "Human B7-H2 Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-13",
+    "catalogNo": "310-13",
+    "name": "Human BAFF",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-13r",
+    "catalogNo": "310-13R",
+    "name": "Human BAFF Receptor",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-47",
+    "catalogNo": "300-47",
+    "name": "Human BCA-1 (CXCL13)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-16",
+    "catalogNo": "310-16",
+    "name": "Human BCMA",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-51",
+    "catalogNo": "300-51",
+    "name": "Human BD-1 (36 amino acids)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-51a",
+    "catalogNo": "300-51A",
+    "name": "Human BD-1 (47 amino acids)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-49",
+    "catalogNo": "300-49",
+    "name": "Human BD-2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-52",
+    "catalogNo": "300-52",
+    "name": "Human BD-3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-65",
+    "catalogNo": "300-65",
+    "name": "Human BD-4",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-68",
+    "catalogNo": "300-68",
+    "name": "Human BD-5",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-24b",
+    "catalogNo": "120-24B",
+    "name": "Human BMP-3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-05",
+    "catalogNo": "120-05",
+    "name": "Human BMP-4",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-05et",
+    "catalogNo": "120-05ET",
+    "name": "Human BMP-4",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-39",
+    "catalogNo": "120-39",
+    "name": "Human BMP-5",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-06",
+    "catalogNo": "120-06",
+    "name": "Human BMP-6",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-03p",
+    "catalogNo": "120-03P",
+    "name": "Human BMP-7",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-40",
+    "catalogNo": "120-40",
+    "name": "Human BMP-10",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-04",
+    "catalogNo": "120-04",
+    "name": "Human BMP-13/CDMP-2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-50",
+    "catalogNo": "300-50",
+    "name": "Human BRAK (CXCL14)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-43",
+    "catalogNo": "310-43",
+    "name": "Human BTLA Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "130-20",
+    "catalogNo": "130-20",
+    "name": "Human C1 Inhibitor",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-70",
+    "catalogNo": "300-70",
+    "name": "Human C5a",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-32",
+    "catalogNo": "300-32",
+    "name": "Human Cardiotrophin-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-46",
+    "catalogNo": "310-46",
+    "name": "Human CD200 Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "110-11",
+    "catalogNo": "110-11",
+    "name": "Human sCD4",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-41",
+    "catalogNo": "310-41",
+    "name": "Human sCD8a",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "110-01",
+    "catalogNo": "110-01",
+    "name": "Human sCD14",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-01",
+    "catalogNo": "100-01",
+    "name": "Human sCD22",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-26",
+    "catalogNo": "310-26",
+    "name": "Human sCD23",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-30",
+    "catalogNo": "310-30",
+    "name": "Human sCD27 Ligand",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-34",
+    "catalogNo": "310-34",
+    "name": "Human sCD28 Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-42",
+    "catalogNo": "450-42",
+    "name": "Human sCD30 Ligand",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-31",
+    "catalogNo": "310-31",
+    "name": "Human sCD34",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-02",
+    "catalogNo": "310-02",
+    "name": "Human sCD40 Ligand",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-29",
+    "catalogNo": "310-29",
+    "name": "Human sCD100",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-05",
+    "catalogNo": "450-05",
+    "name": "Human CDNF",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-66",
+    "catalogNo": "300-66",
+    "name": "Human Chemerin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-13",
+    "catalogNo": "450-13",
+    "name": "Human CNTF",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-54",
+    "catalogNo": "300-54",
+    "name": "Human CTACK (CCL27)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-19",
+    "catalogNo": "120-19",
+    "name": "Human CTGF",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-16",
+    "catalogNo": "120-16",
+    "name": "Human CTGFL/WISP-2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-05",
+    "catalogNo": "310-05",
+    "name": "Human CTLA-4 Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-55",
+    "catalogNo": "300-55",
+    "name": "Human CXCL16",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-25",
+    "catalogNo": "120-25",
+    "name": "Human CYR61",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-30",
+    "catalogNo": "120-30",
+    "name": "Human DKK-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-45",
+    "catalogNo": "120-45",
+    "name": "Human DKK-2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-46",
+    "catalogNo": "120-46",
+    "name": "Human DKK-3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "140-08",
+    "catalogNo": "140-08",
+    "name": "Human sDLL-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "140-07",
+    "catalogNo": "140-07",
+    "name": "Human sDLL-4",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-15r",
+    "catalogNo": "100-15R",
+    "name": "Human EGFR",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-61",
+    "catalogNo": "100-61",
+    "name": "Human EGF-L7",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-44",
+    "catalogNo": "100-44",
+    "name": "Human EG-VEGF",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-22",
+    "catalogNo": "300-22",
+    "name": "Human ENA-78 (CXCL5) (amino acids 5-78)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-22b",
+    "catalogNo": "300-22B",
+    "name": "Human ENA-78 (CXCL5) (amino acids 8-78)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "150-01",
+    "catalogNo": "150-01",
+    "name": "Human Endostatin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-48c",
+    "catalogNo": "450-48C",
+    "name": "Human Enterokinase",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-21",
+    "catalogNo": "300-21",
+    "name": "Human Eotaxin (CCL11)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-33",
+    "catalogNo": "300-33",
+    "name": "Human Eotaxin-2 (CCL24)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-48",
+    "catalogNo": "300-48",
+    "name": "Human Eotaxin-3 (CCL26)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-51",
+    "catalogNo": "100-51",
+    "name": "Human Epigen",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-04",
+    "catalogNo": "100-04",
+    "name": "Human Epiregulin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-64",
+    "catalogNo": "100-64",
+    "name": "Human EPO",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "150-15",
+    "catalogNo": "150-15",
+    "name": "Human E-Selectin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-35a",
+    "catalogNo": "300-35A",
+    "name": "Human Exodus-2 (CCL21)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-03h",
+    "catalogNo": "310-03H",
+    "name": "Human sFas Ligand",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-20",
+    "catalogNo": "310-20",
+    "name": "Human sFas Receptor",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "140-13",
+    "catalogNo": "140-13",
+    "name": "Human Fetuin A/AHSG",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-17a",
+    "catalogNo": "100-17A",
+    "name": "Human FGF-Acidic",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-18b",
+    "catalogNo": "100-18B",
+    "name": "Human FGF-Basic (154 amino acids)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-18bhs",
+    "catalogNo": "100-18BHS",
+    "name": "Human Heat-Stable FGF-Basic (154 amino acids)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-18c",
+    "catalogNo": "100-18C",
+    "name": "Human FGF-Basic (146 amino acids)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-31",
+    "catalogNo": "100-31",
+    "name": "Human FGF-4",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-34",
+    "catalogNo": "100-34",
+    "name": "Human FGF-5",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-30",
+    "catalogNo": "100-30",
+    "name": "Human FGF-6",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-25a",
+    "catalogNo": "100-25A",
+    "name": "Human FGF-8a",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-23",
+    "catalogNo": "100-23",
+    "name": "Human FGF-9",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-26",
+    "catalogNo": "100-26",
+    "name": "Human FGF-10",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-29",
+    "catalogNo": "100-29",
+    "name": "Human FGF-16",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-27",
+    "catalogNo": "100-27",
+    "name": "Human FGF-17",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-28",
+    "catalogNo": "100-28",
+    "name": "Human FGF-18",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-32",
+    "catalogNo": "100-32",
+    "name": "Human FGF-19",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-41",
+    "catalogNo": "100-41",
+    "name": "Human FGF-20",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-42",
+    "catalogNo": "100-42",
+    "name": "Human FGF-21",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-52",
+    "catalogNo": "100-52",
+    "name": "Human FGF-23",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-66",
+    "catalogNo": "100-66",
+    "name": "Human FGF-BP-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "160-02",
+    "catalogNo": "160-02",
+    "name": "Human FGFR1a (IIIc) Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "160-03",
+    "catalogNo": "160-03",
+    "name": "Human FGFR2a (IIIc) Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "160-05",
+    "catalogNo": "160-05",
+    "name": "Human FGFR3 (IIIc) Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-19",
+    "catalogNo": "300-19",
+    "name": "Human Flt3-Ligand",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-13",
+    "catalogNo": "120-13",
+    "name": "Human Follistatin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-31",
+    "catalogNo": "300-31",
+    "name": "Human Fractalkine (CX3CL1)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-29",
+    "catalogNo": "120-29",
+    "name": "Human sFRP-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-50",
+    "catalogNo": "120-50",
+    "name": "Human sFRP-4",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-53",
+    "catalogNo": "120-53",
+    "name": "Human sFRP-5",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-51",
+    "catalogNo": "120-51",
+    "name": "Human FSTL1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-47",
+    "catalogNo": "450-47",
+    "name": "Human Furin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-21",
+    "catalogNo": "450-21",
+    "name": "Human gAcrp30/Adipolean",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-20",
+    "catalogNo": "450-20",
+    "name": "Human gAcrp30/Adipolean Variant",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-39",
+    "catalogNo": "450-39",
+    "name": "Human Galectin-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-38",
+    "catalogNo": "450-38",
+    "name": "Human Galectin-3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-41",
+    "catalogNo": "120-41",
+    "name": "Human GASP-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-41",
+    "catalogNo": "300-41",
+    "name": "Human GCP-2 (CXCL6)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-23",
+    "catalogNo": "300-23",
+    "name": "Human G-CSF",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-07",
+    "catalogNo": "120-07",
+    "name": "Human GDF-2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-22",
+    "catalogNo": "120-22",
+    "name": "Human GDF-3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-01",
+    "catalogNo": "120-01",
+    "name": "Human GDF-5 (BMP-14/CDMP-1)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-37",
+    "catalogNo": "120-37",
+    "name": "Human GDF-7",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-28c",
+    "catalogNo": "120-28C",
+    "name": "Human GDF-15/MIC-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-10",
+    "catalogNo": "450-10",
+    "name": "Human GDNF",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-22r",
+    "catalogNo": "310-22R",
+    "name": "Human GITR/TNFRSF18 Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "130-08",
+    "catalogNo": "130-08",
+    "name": "Human GLP-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-03",
+    "catalogNo": "300-03",
+    "name": "Human GM-CSF",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-37",
+    "catalogNo": "450-37",
+    "name": "Human GMF-beta",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-71",
+    "catalogNo": "300-71",
+    "name": "Human GPR15L",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-42",
+    "catalogNo": "120-42",
+    "name": "Human Gremlin-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-11",
+    "catalogNo": "300-11",
+    "name": "Human GRO-alpha/MGSA (CXCL1)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-39",
+    "catalogNo": "300-39",
+    "name": "Human GRO-beta (CXCL2)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-40",
+    "catalogNo": "300-40",
+    "name": "Human GRO-gamma (CXCL3)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-40",
+    "catalogNo": "100-40",
+    "name": "Human Growth Hormone",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-47",
+    "catalogNo": "100-47",
+    "name": "Human HB-EGF",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-38",
+    "catalogNo": "300-38",
+    "name": "Human HCC-1 (CCL14) (72 amino acids)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-38b",
+    "catalogNo": "300-38B",
+    "name": "Human HCC-1 (CCL14) (66 amino acids)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-03",
+    "catalogNo": "100-03",
+    "name": "Human Heregulin beta-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-39",
+    "catalogNo": "100-39",
+    "name": "Human HGF",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-39h",
+    "catalogNo": "100-39H",
+    "name": "Human HGF",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-60",
+    "catalogNo": "100-60",
+    "name": "Human HPRG",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-27",
+    "catalogNo": "310-27",
+    "name": "Human HVEM-Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-37",
+    "catalogNo": "300-37",
+    "name": "Human I-309 (CCL1)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "150-05",
+    "catalogNo": "150-05",
+    "name": "Human ICAM-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "150-22",
+    "catalogNo": "150-22",
+    "name": "Human ICAM-2 Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "150-23",
+    "catalogNo": "150-23",
+    "name": "Human ICAM-3 Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-39",
+    "catalogNo": "310-39",
+    "name": "Human ICOS Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-02aa",
+    "catalogNo": "300-02AA",
+    "name": "Human IFN-alpha",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-02bc",
+    "catalogNo": "300-02BC",
+    "name": "Human IFN-beta",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-02",
+    "catalogNo": "300-02",
+    "name": "Human IFN-gamma",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-02l",
+    "catalogNo": "300-02L",
+    "name": "Human IFN-lambda1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-02k",
+    "catalogNo": "300-02K",
+    "name": "Human IFN-lambda2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-02j",
+    "catalogNo": "300-02J",
+    "name": "Human IFN-omega",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-11",
+    "catalogNo": "100-11",
+    "name": "Human IGF-I",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-11r3",
+    "catalogNo": "100-11R3",
+    "name": "Human IGF-I LR3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-12",
+    "catalogNo": "100-12",
+    "name": "Human IGF-II",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "350-10",
+    "catalogNo": "350-10",
+    "name": "Human IGF-BP1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "350-06b",
+    "catalogNo": "350-06B",
+    "name": "Human IGF-BP2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-08",
+    "catalogNo": "100-08",
+    "name": "Human IGF-BP3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "350-05b",
+    "catalogNo": "350-05B",
+    "name": "Human IGF-BP4",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-05",
+    "catalogNo": "100-05",
+    "name": "Human IGF-BP5",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "350-07b",
+    "catalogNo": "350-07B",
+    "name": "Human IGF-BP6",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "350-09",
+    "catalogNo": "350-09",
+    "name": "Human IGF-BP7",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-01a",
+    "catalogNo": "200-01A",
+    "name": "Human IL-1alpha",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-01b",
+    "catalogNo": "200-01B",
+    "name": "Human IL-1beta",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-01ra",
+    "catalogNo": "200-01RA",
+    "name": "Human IL-1RA",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-02",
+    "catalogNo": "200-02",
+    "name": "Human IL-2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-02rc",
+    "catalogNo": "200-02RC",
+    "name": "Human sIL-2 Receptor alpha",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-03",
+    "catalogNo": "200-03",
+    "name": "Human IL-3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-04",
+    "catalogNo": "200-04",
+    "name": "Human IL-4",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-02rb",
+    "catalogNo": "200-02RB",
+    "name": "Human sIL-2 Receptor beta Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-07ra",
+    "catalogNo": "200-07RA",
+    "name": "Human sIL-7 Receptor alpha Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-12rb-2",
+    "catalogNo": "200-12RB-2",
+    "name": "Human sIL-12 Receptor beta-2 Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-23r",
+    "catalogNo": "200-23R",
+    "name": "Human sIL-23 Receptor Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-04rc",
+    "catalogNo": "200-04RC",
+    "name": "Human sIL-4 Receptor alpha",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-05",
+    "catalogNo": "200-05",
+    "name": "Human IL-5",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-06",
+    "catalogNo": "200-06",
+    "name": "Human IL-6",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-06rc",
+    "catalogNo": "200-06RC",
+    "name": "Human sIL-6 Receptor alpha",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-07",
+    "catalogNo": "200-07",
+    "name": "Human IL-7",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-08m",
+    "catalogNo": "200-08M",
+    "name": "Human IL-8 (CXCL8) (72 amino acids)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-08",
+    "catalogNo": "200-08",
+    "name": "Human IL-8 (CXCL8) (77 amino acids)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-09",
+    "catalogNo": "200-09",
+    "name": "Human IL-9",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-10",
+    "catalogNo": "200-10",
+    "name": "Human IL-10",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-11",
+    "catalogNo": "200-11",
+    "name": "Human IL-11",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-12",
+    "catalogNo": "200-12",
+    "name": "Human IL-12 p70",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-12h",
+    "catalogNo": "200-12H",
+    "name": "Human IL-12 p70",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-12p80h",
+    "catalogNo": "200-12P80H",
+    "name": "Human IL-12 p80",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-13",
+    "catalogNo": "200-13",
+    "name": "Human IL-13",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-13a",
+    "catalogNo": "200-13A",
+    "name": "Human IL-13 Variant",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-15",
+    "catalogNo": "200-15",
+    "name": "Human IL-15",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-16a",
+    "catalogNo": "200-16A",
+    "name": "Human IL-16 (121 amino acids)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-16",
+    "catalogNo": "200-16",
+    "name": "Human IL-16 (129 amino acids)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-17",
+    "catalogNo": "200-17",
+    "name": "Human IL-17A",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-28",
+    "catalogNo": "200-28",
+    "name": "Human IL-17B",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-27",
+    "catalogNo": "200-27",
+    "name": "Human IL-17D",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-24",
+    "catalogNo": "200-24",
+    "name": "Human IL-17E",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-25",
+    "catalogNo": "200-25",
+    "name": "Human IL-17F",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-18bp",
+    "catalogNo": "200-18BP",
+    "name": "Human IL-18BP Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-19",
+    "catalogNo": "200-19",
+    "name": "Human IL-19",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-20",
+    "catalogNo": "200-20",
+    "name": "Human IL-20",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-21",
+    "catalogNo": "200-21",
+    "name": "Human IL-21",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-22",
+    "catalogNo": "200-22",
+    "name": "Human IL-22",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-23",
+    "catalogNo": "200-23",
+    "name": "Human IL-23",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-35",
+    "catalogNo": "200-35",
+    "name": "Human IL-24",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-38",
+    "catalogNo": "200-38",
+    "name": "Human IL-27",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-31",
+    "catalogNo": "200-31",
+    "name": "Human IL-31",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-33",
+    "catalogNo": "200-33",
+    "name": "Human IL-33",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-34",
+    "catalogNo": "200-34",
+    "name": "Human IL-34",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-37",
+    "catalogNo": "200-37",
+    "name": "Human IL-35",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-36a",
+    "catalogNo": "200-36A",
+    "name": "Human IL-36alpha (IL-1F6)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-36b",
+    "catalogNo": "200-36B",
+    "name": "Human IL-36beta (IL-1F8)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-36g",
+    "catalogNo": "200-36G",
+    "name": "Human IL-36gamma (IL-1F9)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-36ra",
+    "catalogNo": "200-36RA",
+    "name": "Human IL-36RA",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-39",
+    "catalogNo": "200-39",
+    "name": "Human IL-37 (IL-1F7)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "130-05",
+    "catalogNo": "130-05",
+    "name": "Human INSL5/INSL7 Hybrid",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-12",
+    "catalogNo": "300-12",
+    "name": "Human IP-10 (CXCL10)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-46",
+    "catalogNo": "300-46",
+    "name": "Human I-TAC (CXCL11)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-19",
+    "catalogNo": "100-19",
+    "name": "Human KGF (FGF-7)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "110-08",
+    "catalogNo": "110-08",
+    "name": "Human KLF4-TAT",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-53",
+    "catalogNo": "100-53",
+    "name": "Human Klotho",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-58",
+    "catalogNo": "300-58",
+    "name": "Human LAG-1 (CCL4L1)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-56",
+    "catalogNo": "300-56",
+    "name": "Human LD78beta (CCL3L1)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-44",
+    "catalogNo": "300-44",
+    "name": "Human LEC (CCL16)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-27",
+    "catalogNo": "300-27",
+    "name": "Human Leptin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-27r",
+    "catalogNo": "300-27R",
+    "name": "Human Leptin Receptor",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-05",
+    "catalogNo": "300-05",
+    "name": "Human LIF",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-09b",
+    "catalogNo": "310-09B",
+    "name": "Human LIGHT",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "110-06",
+    "catalogNo": "110-06",
+    "name": "Human Lin28-TAT",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-20",
+    "catalogNo": "300-20",
+    "name": "Human Lymphotactin (XCL1)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-06",
+    "catalogNo": "450-06",
+    "name": "Human MANF",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "130-12",
+    "catalogNo": "130-12",
+    "name": "Human Maspin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-25",
+    "catalogNo": "300-25",
+    "name": "Human M-CSF",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-04",
+    "catalogNo": "300-04",
+    "name": "Human MCP-1 (CCL2)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-15",
+    "catalogNo": "300-15",
+    "name": "Human MCP-2 (CCL8)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-17",
+    "catalogNo": "300-17",
+    "name": "Human MCP-3 (CCL7)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-24",
+    "catalogNo": "300-24",
+    "name": "Human MCP-4 (CCL13)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "160-07",
+    "catalogNo": "160-07",
+    "name": "Human MD-2/LY96",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-36",
+    "catalogNo": "300-36",
+    "name": "Human MDC (CCL22) (67 amino acids)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-36a",
+    "catalogNo": "300-36A",
+    "name": "Human MDC (CCL22) (69 amino acids)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-57",
+    "catalogNo": "300-57",
+    "name": "Human MEC (CCL28)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-63",
+    "catalogNo": "100-63",
+    "name": "Human Mesothelin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "130-01",
+    "catalogNo": "130-01",
+    "name": "Human MIA",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "130-02",
+    "catalogNo": "130-02",
+    "name": "Human MIA-2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-16",
+    "catalogNo": "450-16",
+    "name": "Human Midkine",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-69",
+    "catalogNo": "300-69",
+    "name": "Human MIF",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-26",
+    "catalogNo": "300-26",
+    "name": "Human MIG (CXCL9)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-08",
+    "catalogNo": "300-08",
+    "name": "Human MIP-1alpha (CCL3)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-09",
+    "catalogNo": "300-09",
+    "name": "Human MIP-1beta (CCL4)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-29",
+    "catalogNo": "300-29",
+    "name": "Human MIP-3 (CCL23)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-29a",
+    "catalogNo": "300-29A",
+    "name": "Human MIP-3alpha (CCL20)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-29b",
+    "catalogNo": "300-29B",
+    "name": "Human MIP-3beta (CCL19)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-34",
+    "catalogNo": "300-34",
+    "name": "Human MIP-4 (CCL18)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-43",
+    "catalogNo": "300-43",
+    "name": "Human MIP-5 (CCL15)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "420-01",
+    "catalogNo": "420-01",
+    "name": "Human MMP-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "420-02",
+    "catalogNo": "420-02",
+    "name": "Human MMP-2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "420-03",
+    "catalogNo": "420-03",
+    "name": "Human MMP-3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-62",
+    "catalogNo": "100-62",
+    "name": "Human MPF",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-12",
+    "catalogNo": "120-12",
+    "name": "Human Myostatin-Propeptide",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-21",
+    "catalogNo": "120-21",
+    "name": "Human Nanog",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-21b",
+    "catalogNo": "120-21B",
+    "name": "Human Nanog-TAT",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-14",
+    "catalogNo": "300-14",
+    "name": "Human NAP-2 (CXCL7)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-67",
+    "catalogNo": "300-67",
+    "name": "Human Nesfatin-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-11",
+    "catalogNo": "450-11",
+    "name": "Human Neurturin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-01",
+    "catalogNo": "450-01",
+    "name": "Human beta-NGF",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-18",
+    "catalogNo": "450-18",
+    "name": "Human NNT-1/BCSF-3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-10c",
+    "catalogNo": "120-10C",
+    "name": "Human Noggin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-26",
+    "catalogNo": "120-26",
+    "name": "Human NOV",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-42",
+    "catalogNo": "300-42",
+    "name": "Human NP-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-03",
+    "catalogNo": "450-03",
+    "name": "Human NT-3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-04",
+    "catalogNo": "450-04",
+    "name": "Human NT-4",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-10h",
+    "catalogNo": "300-10H",
+    "name": "Human Oncostatin M (196 amino acids)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-10t",
+    "catalogNo": "300-10T",
+    "name": "Human Oncostatin M (209 amino acids)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-10",
+    "catalogNo": "300-10",
+    "name": "Human Oncostatin M (227 amino acids)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-14",
+    "catalogNo": "450-14",
+    "name": "Human OPG",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-35",
+    "catalogNo": "120-35",
+    "name": "Human Osteopontin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "130-03",
+    "catalogNo": "130-03",
+    "name": "Human OTOR",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-28",
+    "catalogNo": "310-28",
+    "name": "Human sOX40 Ligand",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "110-02",
+    "catalogNo": "110-02",
+    "name": "Human p16-INK4a",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "110-02t",
+    "catalogNo": "110-02T",
+    "name": "Human p16-INK4a-TAT",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "140-10",
+    "catalogNo": "140-10",
+    "name": "Human PAF-AH",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "140-04",
+    "catalogNo": "140-04",
+    "name": "Human PAI-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "140-06",
+    "catalogNo": "140-06",
+    "name": "Human PAI-2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-40",
+    "catalogNo": "310-40",
+    "name": "Human PD-1 Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-13a",
+    "catalogNo": "100-13A",
+    "name": "Human PDGF-AA",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-00ab",
+    "catalogNo": "100-00AB",
+    "name": "Human PDGF-AB",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-14b",
+    "catalogNo": "100-14B",
+    "name": "Human PDGF-BB",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-00cc",
+    "catalogNo": "100-00CC",
+    "name": "Human PDGF-CC",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-35",
+    "catalogNo": "310-35",
+    "name": "Human PD-L1 Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-38",
+    "catalogNo": "310-38",
+    "name": "Human PD-L2 Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "150-06",
+    "catalogNo": "150-06",
+    "name": "Human PECAM-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "130-13",
+    "catalogNo": "130-13",
+    "name": "Human PEDF",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-12",
+    "catalogNo": "450-12",
+    "name": "Human Persephin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-16",
+    "catalogNo": "300-16",
+    "name": "Human PF-4 (CXCL4)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-15",
+    "catalogNo": "450-15",
+    "name": "Human Pleiotrophin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-06",
+    "catalogNo": "100-06",
+    "name": "Human PlGF-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-56a",
+    "catalogNo": "100-56A",
+    "name": "Human PlGF-2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-57",
+    "catalogNo": "100-57",
+    "name": "Human PlGF-3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-46",
+    "catalogNo": "100-46",
+    "name": "Human Prokineticin-2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-07",
+    "catalogNo": "100-07",
+    "name": "Human Prolactin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-09",
+    "catalogNo": "100-09",
+    "name": "Human PTHrP",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-38",
+    "catalogNo": "120-38",
+    "name": "Human R-Spondin-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-43",
+    "catalogNo": "120-43",
+    "name": "Human R-Spondin-2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-44",
+    "catalogNo": "120-44",
+    "name": "Human R-Spondin-3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-01",
+    "catalogNo": "310-01",
+    "name": "Human sRANK Ligand",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-01c",
+    "catalogNo": "310-01C",
+    "name": "Human sRANK Ligand",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-08",
+    "catalogNo": "310-08",
+    "name": "Human sRANK Receptor",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-06",
+    "catalogNo": "300-06",
+    "name": "Human RANTES (CCL5)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "130-15",
+    "catalogNo": "130-15",
+    "name": "Human Relaxin-2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "130-10",
+    "catalogNo": "130-10",
+    "name": "Human Relaxin-3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-22",
+    "catalogNo": "450-22",
+    "name": "Human RELMbeta",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "450-19",
+    "catalogNo": "450-19",
+    "name": "Human Resistin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "160-04",
+    "catalogNo": "160-04",
+    "name": "Human ROR1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-48",
+    "catalogNo": "310-48",
+    "name": "Human sCD42b/GP1Ba",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-07",
+    "catalogNo": "300-07",
+    "name": "Human SCF",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-22a",
+    "catalogNo": "100-22A",
+    "name": "Human SCGF-alpha",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-22b",
+    "catalogNo": "100-22B",
+    "name": "Human SCGF-beta",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-49",
+    "catalogNo": "100-49",
+    "name": "Human Sclerostin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-28a",
+    "catalogNo": "300-28A",
+    "name": "Human SDF-1alpha (CXCL12)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-28b",
+    "catalogNo": "300-28B",
+    "name": "Human SDF-1beta (CXCL12)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-28g",
+    "catalogNo": "300-28G",
+    "name": "Human SDF-1gamma (CXCL12)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "150-17h",
+    "catalogNo": "150-17H",
+    "name": "Human Semaphorin 3A Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-12rb-1",
+    "catalogNo": "200-12RB-1",
+    "name": "Human sIL-12 Receptor beta-1 Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "200-15ra",
+    "catalogNo": "200-15RA",
+    "name": "Human sIL-15 Receptor alpha Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "150-11",
+    "catalogNo": "150-11",
+    "name": "Human Slit2-N",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "150-10",
+    "catalogNo": "150-10",
+    "name": "Human SOD",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-45",
+    "catalogNo": "100-45",
+    "name": "Human Sonic Hedgehog (Shh)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "110-03",
+    "catalogNo": "110-03",
+    "name": "Human Sox2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "110-03t",
+    "catalogNo": "110-03T",
+    "name": "Human Sox2-TAT",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-36",
+    "catalogNo": "120-36",
+    "name": "Human SPARC/Osteonectin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-17",
+    "catalogNo": "310-17",
+    "name": "Human TACI",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-63",
+    "catalogNo": "300-63",
+    "name": "Human TAFA-2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-30",
+    "catalogNo": "300-30",
+    "name": "Human TARC (CCL17)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-45",
+    "catalogNo": "300-45",
+    "name": "Human TECK (CCL25)",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-60",
+    "catalogNo": "300-60",
+    "name": "Human TFF-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-59",
+    "catalogNo": "300-59",
+    "name": "Human TFF-2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-61",
+    "catalogNo": "300-61",
+    "name": "Human TFF-3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-16a",
+    "catalogNo": "100-16A",
+    "name": "Human TGF-alpha",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-21",
+    "catalogNo": "100-21",
+    "name": "Human TGF-beta1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-21c",
+    "catalogNo": "100-21C",
+    "name": "Human TGF-beta1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-35",
+    "catalogNo": "100-35",
+    "name": "Human TGF-beta2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-35b",
+    "catalogNo": "100-35B",
+    "name": "Human TGF-beta2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-36e",
+    "catalogNo": "100-36E",
+    "name": "Human TGF-beta3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-58",
+    "catalogNo": "100-58",
+    "name": "Human Thrombomodulin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "150-14",
+    "catalogNo": "150-14",
+    "name": "Human TIGAR",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "150-14t",
+    "catalogNo": "150-14T",
+    "name": "Human TIGAR-TAT",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "150-20",
+    "catalogNo": "150-20",
+    "name": "Human TIM-3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "410-01",
+    "catalogNo": "410-01",
+    "name": "Human TIMP-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "410-02",
+    "catalogNo": "410-02",
+    "name": "Human TIMP-2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "150-19t",
+    "catalogNo": "150-19T",
+    "name": "Human Tissue Factor",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-23",
+    "catalogNo": "310-23",
+    "name": "Human TL-1A",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "160-01",
+    "catalogNo": "160-01",
+    "name": "Human TLR-3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "160-06",
+    "catalogNo": "160-06",
+    "name": "Human TLR-4",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-42",
+    "catalogNo": "310-42",
+    "name": "Human TMIGD2/CD28H Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-01a",
+    "catalogNo": "300-01A",
+    "name": "Human TNF-alpha",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-01b",
+    "catalogNo": "300-01B",
+    "name": "Human TNF-beta",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-07",
+    "catalogNo": "310-07",
+    "name": "Human sTNF Receptor Type I",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-12",
+    "catalogNo": "310-12",
+    "name": "Human sTNF Receptor Type II",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-18",
+    "catalogNo": "300-18",
+    "name": "Human TPO",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-04",
+    "catalogNo": "310-04",
+    "name": "Human sTRAIL/Apo2L",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-18",
+    "catalogNo": "310-18",
+    "name": "Human sTRAIL Receptor-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-19",
+    "catalogNo": "310-19",
+    "name": "Human sTRAIL Receptor-2",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-36",
+    "catalogNo": "310-36",
+    "name": "Human TREM-1 Fc",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-09",
+    "catalogNo": "120-09",
+    "name": "Human TSG",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "300-62",
+    "catalogNo": "300-62",
+    "name": "Human TSLP",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-06",
+    "catalogNo": "310-06",
+    "name": "Human TWEAK",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "310-21",
+    "catalogNo": "310-21",
+    "name": "Human TWEAK Receptor",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "150-18",
+    "catalogNo": "150-18",
+    "name": "Human Uteroglobin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "150-16",
+    "catalogNo": "150-16",
+    "name": "Human VAP-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "130-11",
+    "catalogNo": "130-11",
+    "name": "Human Vaspin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "150-04",
+    "catalogNo": "150-04",
+    "name": "Human VCAM-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-20a",
+    "catalogNo": "100-20A",
+    "name": "Human VEGF121",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-20",
+    "catalogNo": "100-20",
+    "name": "Human VEGF165",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-20b",
+    "catalogNo": "100-20B",
+    "name": "Human VEGF-B",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-20cd",
+    "catalogNo": "100-20CD",
+    "name": "Human VEGF-C",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "100-20d",
+    "catalogNo": "100-20D",
+    "name": "Human VEGF-D",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "110-10",
+    "catalogNo": "110-10",
+    "name": "Human Vimentin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "130-09",
+    "catalogNo": "130-09",
+    "name": "Human Visfatin",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-18",
+    "catalogNo": "120-18",
+    "name": "Human WISP-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-20",
+    "catalogNo": "120-20",
+    "name": "Human WISP-3",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-17",
+    "catalogNo": "120-17",
+    "name": "Human Wnt-1",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-31",
+    "catalogNo": "120-31",
+    "name": "Human Wnt-7a",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  },
+  {
+    "slug": "120-49",
+    "catalogNo": "120-49",
+    "name": "Human Wnt-9b",
+    "maker": "PeproTech",
+    "makerSlug": "peprotech",
+    "species": "Human",
+    "category": "cytokine-growth-factor"
+  }
+]
