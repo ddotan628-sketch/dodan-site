@@ -160,6 +160,20 @@
   });
 })();
 
+// 제품 상세 페이지(예: /products/.../)에서 "문의하기" 버튼을 누르면
+// ?name=제품명&code=제품번호 형태의 쿼리스트링과 함께 이 페이지로 오는데,
+// 그 값을 문의 폼의 "문의 시약명"/"문의 시약 제품번호" 칸에 자동으로 채워준다.
+(function () {
+  var nameField = document.getElementById("reagentName");
+  var codeField = document.getElementById("reagentCode");
+  if (!nameField && !codeField) return;
+  var params = new URLSearchParams(window.location.search);
+  var name = params.get("name");
+  var code = params.get("code");
+  if (name && nameField) nameField.value = name;
+  if (code && codeField) codeField.value = code;
+})();
+
 // Contact form submission via Web3Forms (no backend required)
 // Contact form submission via Web3Forms (no backend required)
 // Contact form submission via Web3Forms (no backend required)
