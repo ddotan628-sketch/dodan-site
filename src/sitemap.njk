@@ -10,6 +10,9 @@ eleventyExcludeFromCollections: true
   {% for m in makers %}
   <url><loc>{{ site.url }}/makers/{{ m.slug }}/</loc></url>
   {% endfor %}
+  {% for p in products %}
+  <url><loc>{{ site.url }}/products/{{ p.slug }}/</loc></url>
+  {% endfor %}
   <url><loc>{{ site.url }}/services/</loc></url>
   <url><loc>{{ site.url }}/contact/</loc></url>
   <url><loc>{{ site.url }}/contact-cro/</loc></url>
